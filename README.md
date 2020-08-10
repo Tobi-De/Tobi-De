@@ -18,6 +18,7 @@
 ### Techs that interests me:
 
 - [Fastapi](https://github.com/tiangolo/fastapi)
+- [Scrapy](https://github.com/scrapy/scrapy)
 - [Graphql](https://graphql.org/)
 - [Electron js](https://www.electronjs.org/)
 - [Kotlin](https://kotlinlang.org/) 
