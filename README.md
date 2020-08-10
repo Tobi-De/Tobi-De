@@ -1,4 +1,4 @@
-### Hi there, I'm Tobi -  ![tobidegnon][website] 👋
+### Hi there, I'm Tobi -  [tobidegnon][website] 👋
 
 ## I'm a Full Stack web Developer !
 - 🔭 I’m currently learning vuejs and wagtail
@@ -10,7 +10,7 @@
 
 ### Contact me:
 
-- ![My personal website][website]
+- [My personal website][website]
 - My email address : degnonfrancis@gmail.com
 
 ---
@@ -56,4 +56,4 @@
 
 <img align="left" alt="Tobi-De Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tobi-De&count_private=true&hide_border=true&theme=algolia" />
 
-[website]: https://tobidegnon.herokuapp.com
+[website]: https://tobidegnon.herokuapp.com/
