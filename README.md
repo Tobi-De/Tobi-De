@@ -56,4 +56,4 @@
 
 <img align="left" alt="Tobi-De Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tobi-De&count_private=true&hide_border=true&theme=algolia" />
 
-[website]: ttps://tobidegnon.herokuapp.com
+[website]: https://tobidegnon.herokuapp.com
