@@ -12,6 +12,7 @@
 
 - [My personal website][website]
 - My email address : degnonfrancis@gmail.com
+- [Twitter](https://twitter.com/Tobi71110248)
 
 ---
 
