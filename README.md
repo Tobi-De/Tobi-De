@@ -1,8 +1,8 @@
-### Hi there, I'm Tobi -  [tobidegnon][website] 👋
+### Hi there, I'm Tobi -  [MyWebsite][website] 👋
 
 ## I'm a Full Stack web Developer !
 - 🔭 I’m currently learning vuejs and wagtail
-- 🌱 I’m constantly improving my django skills 🤣
+- 🌱 I’m constantly improving my django skills
 - 👯 I’m looking to collaborate on python, django, wagtail and vuejs projects
 - 🥅 2020 Goals: Get my django skills to the advanced level
 
