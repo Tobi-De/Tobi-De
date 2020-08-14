@@ -16,7 +16,7 @@
 
 ---
 
-### Techs that interests me:
+### Tech I'm interested in:
 
 - [Fastapi](https://github.com/tiangolo/fastapi)
 - [Scrapy](https://github.com/scrapy/scrapy)
