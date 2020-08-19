@@ -62,6 +62,8 @@
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//PyCrafting/cookiecutter-django-rest/pull/1) in [PyCrafting/cookiecutter-django-rest](https://github.com//PyCrafting/cookiecutter-django-rest)
+2. 💪 Opened PR [#1](https://github.com//PyCrafting/cookiecutter-django-rest/pull/1) in [PyCrafting/cookiecutter-django-rest](https://github.com//PyCrafting/cookiecutter-django-rest)
   <!--END_SECTION:activity-->
 
 </details>
