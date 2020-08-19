@@ -8,11 +8,11 @@
 
 ---
 
-### Contact me:
+### Reach Me:
 
 - [My personal website][website]
-- My email address : degnonfrancis@gmail.com
-- [Twitter](https://twitter.com/Tobi71110248)
+- Email address : degnonfrancis@gmail.com
+![Twitter URL](https://img.shields.io/twitter/url?label=FOLLOW%20%40Tobi71110248&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FTobi71110248)
 
 ---
 
