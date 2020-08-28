@@ -1,6 +1,7 @@
-### Hi there, I'm Tobi -  [Website][website] 👋
+### Hi there, I'm Tobi - [Website][website] 👋
 
 ## I'm a Full Stack web Developer !
+
 - 🔭 I’m currently learning vuejs and wagtail
 - 🌱 I’m constantly improving my django skills
 - 👯 I’m looking to collaborate on python, django, wagtail and vuejs projects
@@ -11,15 +12,13 @@
 ### Reach Me:
 
 [<img align="left" alt="tobidegnon.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
+[<img align="left" alt="tobi-de | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="tobi-de | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="tobi-de | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
 ---
-
 
 ### Tech I'm interested in:
 
@@ -27,14 +26,13 @@
 - [Scrapy](https://github.com/scrapy/scrapy)
 - [Graphql](https://graphql.org/)
 - [Electron js](https://www.electronjs.org/)
-- [Kotlin](https://kotlinlang.org/) 
+- [Kotlin](https://kotlinlang.org/)
 - [NuxtJs](https://fr.nuxtjs.org/)
 - [JAMSTACK](https://jamstack.org/)
 - [Gridsome](https://gridsome.org/)
 - [Flutter](https://flutter.dev/)
 
 ---
-
 
 ### Languages and Tools:
 
@@ -65,9 +63,10 @@
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#1](https://github.com//PyCrafting/cookiecutter-django-rest/pull/1) in [PyCrafting/cookiecutter-django-rest](https://github.com//PyCrafting/cookiecutter-django-rest)
 2. 💪 Opened PR [#1](https://github.com//PyCrafting/cookiecutter-django-rest/pull/1) in [PyCrafting/cookiecutter-django-rest](https://github.com//PyCrafting/cookiecutter-django-rest)
-  <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
@@ -77,7 +76,6 @@
  <img align="left" alt="Tobi-De Github Stats" src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&hide_border=true&theme=algolia" />
 
  </details>
-
 
 [website]: https://www.tobidegnon.com
 [mail]: mailto:degnonfrancis@gmail.com
