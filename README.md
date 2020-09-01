@@ -64,8 +64,8 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com//PyCrafting/cookiecutter-django-rest/pull/1) in [PyCrafting/cookiecutter-django-rest](https://github.com//PyCrafting/cookiecutter-django-rest)
-2. 💪 Opened PR [#1](https://github.com//PyCrafting/cookiecutter-django-rest/pull/1) in [PyCrafting/cookiecutter-django-rest](https://github.com//PyCrafting/cookiecutter-django-rest)
+1. 🎉 Merged PR [#1](https://github.com//PyCrafting/awesome-vue/pull/1) in [PyCrafting/awesome-vue](https://github.com//PyCrafting/awesome-vue)
+2. 💪 Opened PR [#1](https://github.com//PyCrafting/awesome-vue/pull/1) in [PyCrafting/awesome-vue](https://github.com//PyCrafting/awesome-vue)
 <!--END_SECTION:activity-->
 
 </details>
