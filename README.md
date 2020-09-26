@@ -64,8 +64,8 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com//Tobi-De/challenges/pull/1) in [Tobi-De/challenges](https://github.com//Tobi-De/challenges)
-2. 💪 Opened PR [#1](https://github.com//Tobi-De/challenges/pull/1) in [Tobi-De/challenges](https://github.com//Tobi-De/challenges)
+1. 🎉 Merged PR [#1](https://github.com/Tobi-De/challenges/pull/1) in [Tobi-De/challenges](https://github.com/Tobi-De/challenges)
+2. 💪 Opened PR [#1](https://github.com/Tobi-De/challenges/pull/1) in [Tobi-De/challenges](https://github.com/Tobi-De/challenges)
 <!--END_SECTION:activity-->
 
 </details>
