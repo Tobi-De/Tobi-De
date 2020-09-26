@@ -64,8 +64,8 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
-2. 🗣 Commented on [#1](https://github.com/Tobi-De/Tobi-De/issues/1) in [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
+1. 🎉 Merged PR [#3](https://github.com/Tobi-De/cjvrmanager/pull/3) in [Tobi-De/cjvrmanager](https://github.com/Tobi-De/cjvrmanager)
+2. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
 <!--END_SECTION:activity-->
 
 </details>
