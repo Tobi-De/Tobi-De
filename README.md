@@ -64,8 +64,8 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Tobi-De/challenges/pull/1) in [Tobi-De/challenges](https://github.com/Tobi-De/challenges)
-2. 💪 Opened PR [#1](https://github.com/Tobi-De/challenges/pull/1) in [Tobi-De/challenges](https://github.com/Tobi-De/challenges)
+1. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
+2. 🗣 Commented on [#1](https://github.com/Tobi-De/Tobi-De/issues/1) in [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
 <!--END_SECTION:activity-->
 
 </details>
