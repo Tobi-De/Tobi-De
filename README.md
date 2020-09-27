@@ -64,8 +64,8 @@
 
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/Tobi-De/Tobi-De/issues/2) in [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-2. ❗️ Closed issue [#1](https://github.com/Tobi-De/Tobi-De/issues/1) in [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
+1. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
+2. ❗️ Closed issue [#2](https://github.com/Tobi-De/Tobi-De/issues/2) in [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
 <!--END_SECTION:activity-->
 
 </details>
