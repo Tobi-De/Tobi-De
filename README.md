@@ -64,8 +64,8 @@
 
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/Eonasdan/blog/issues/2) in [Eonasdan/blog](https://github.com/Eonasdan/blog)
-2. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
+1. 🗣 Commented on [#3](https://github.com/Tobi-De/Tobi-De/issues/3) in [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
+2. 🗣 Commented on [#2](https://github.com/Eonasdan/blog/issues/2) in [Eonasdan/blog](https://github.com/Eonasdan/blog)
 <!--END_SECTION:activity-->
 
 </details>
