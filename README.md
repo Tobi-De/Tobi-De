@@ -77,7 +77,7 @@
 
  </details>
 
-[website]: https://www.tobidegnon.com
+[website]: https://personal-website.tobidegnon.com/
 [mail]: mailto:degnonfrancis@gmail.com
 [twitter]: https://twitter.com/Tobi71110248?ref_src=twsrc%5Etfw
 [telegram]: https://t.me/Tobi_DE1999
