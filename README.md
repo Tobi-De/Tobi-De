@@ -1,24 +1,16 @@
-### Hi there, I'm Tobi - [Website][website] 👋
+### Hi there, I'm Tobi 👋
 
 ## I'm a Full Stack web Developer !
 
-- 🔭 I’m currently learning vuejs and wagtail
+- 🔭 I’m currently learning typescript, vuejs and fastapi
 - 🌱 I’m constantly improving my django skills
-- 👯 I’m looking to collaborate on python, django, wagtail and vuejs projects
-- 🥅 2020 Goals: Get my django skills to the advanced level
+- 👯 I’m looking to collaborate on python, django, fastapi and vuejs projects
+- 🥅 2021 Goals :  
+  - Get my vuejs skills to the next level
+  - Get my fastapi skills to the next level
 
 ---
 
-### Reach Me:
-
-[<img align="left" alt="tobidegnon.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="tobi-de | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-[<img align="left" alt="tobi-de | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="tobi-de | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<br />
-
----
 
 ### Tech I'm interested in:
 
