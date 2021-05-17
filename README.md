@@ -1,6 +1,6 @@
 ### Hi there, I'm Tobi 👋
 
-## I'm a Full Stack web Developer !
+## I'm a Full Stack Developer !
 
 - 🔭 I’m currently learning typescript, vuejs and fastapi
 - 🌱 I’m constantly improving my django skills
