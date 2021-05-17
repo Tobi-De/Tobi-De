@@ -14,7 +14,7 @@
 
 ### Tech I'm interested in:
 
-- [Fastapi](https://github.com/tiangolo/fastapi)
+- [Wagtail](https://wagtail.io/)
 - [Scrapy](https://github.com/scrapy/scrapy)
 - [Graphql](https://graphql.org/)
 - [Electron js](https://www.electronjs.org/)
