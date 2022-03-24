@@ -2,7 +2,7 @@
 
 ## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
-Welcome to my github bio. I'm a software engineer, Python Software Foundation Fellow, working with Django, fastapi, Htmx and python.
+Welcome to my github bio. I'm a software engineer, Python Software Foundation Fellow, working with [Django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi), [Htmx](https://github.com/bigskysoftware/htmx) and [python](https://github.com/python).
 I love open source and mythologies. 
 
 - 🔭 I’m currently learning golang
@@ -33,5 +33,8 @@ I love open source and mythologies.
 <img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 <img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api/top-langs?username=Tobi-De&layout=compact&hide_border=true&theme=dracula" />
 </div>
+
+### Connect with me
+
 
 
