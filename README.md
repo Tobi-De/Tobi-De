@@ -36,5 +36,14 @@ I love open source and mythologies.
 
 ### Connect with me
 
-
-
+[![twitter](./img/twitter-light.svg)](https://twitter.com/Tobi71110248#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/Tobi71110248#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![polywork](./img/polywork-light.svg)](https://www.polywork.com/tobi99#gh-light-mode-only)
+[![polywork](./img/polywork-dark.svg)](https://www.polywork.com/tobi99#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![devto](./img/devto-light.svg)](https://dev.to/tobi#gh-light-mode-only)
+[![devto](./img/devto-dark.svg)](https://dev.to/tobi#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![email](./img/gmail-light.svg)](mailto:degnonfrancis@gmail.com#gh-light-mode-only)
+[![email](./img/gmail-dark.svg)](mailto:degnonfrancis@gmail.com#gh-dark-mode-only)
