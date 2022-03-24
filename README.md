@@ -1,12 +1,14 @@
-![](https://github.com/Tobi-De/Tobi-De/blob/master/img/ezgif.com-gif-maker.gif?raw=true)
+![](https://github.com/Tobi-De/Tobi-De/blob/master/img/cover.png?raw=true)
 
 ## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
-I'm a Backend Engineer. I love open source and the python ecosystem.
+Welcome to my github bio. I'm a software engineer, Python Software Foundation Fellow, working with Django, fastapi, Htmx and python.
+I love open source and mythologies. 
 
 - 🔭 I’m currently learning golang
-- 🌱 I’m constantly improving my django skills
+- 🌱 I plan to contribute as much as possible to open source this year (2022)
 - 👯 I’m looking to collaborate on anything python related
+- 🔊 I love listening to Pop, Mordern Rock and J-pop, and many other kinds of music
 
 ### Languages and tools
 
