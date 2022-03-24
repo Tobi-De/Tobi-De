@@ -1,6 +1,6 @@
 ![](https://github.com/Tobi-De/Tobi-De/blob/master/img/cover.png?raw=true)
 
-## Hi, I'm Tobi! 👋
+## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
 I'm a Backend Engineer. I love open source and the python ecosystem.
 
