@@ -1,4 +1,4 @@
-![](https://github.com/tobi-de/tobi-de/raw/main/img/cover.png)
+![](https://github.com/Tobi-De/Tobi-De/blob/master/img/cover.png?raw=true)
 
 ## Hi, I'm Tobi! 👋
 
