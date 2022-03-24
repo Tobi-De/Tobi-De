@@ -1,3 +1,5 @@
+![](https://github.com/tobi-de/tobi-de/raw/main/img/cover.png)
+
 ## Hi, I'm Tobi! 👋
 
 I'm a Backend Engineer. I love open source and the python ecosystem.
@@ -26,8 +28,8 @@ I'm a Backend Engineer. I love open source and the python ecosystem.
 ### Github
 
 <div>
-<img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&theme=dracula" />
-<img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api/top-langs?username=Tobi-De&layout=compact&theme=dracula" />
+<img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+<img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api/top-langs?username=Tobi-De&layout=compact&hide_border=true&theme=dracula" />
 </div>
 
 
