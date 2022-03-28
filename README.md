@@ -14,6 +14,7 @@ I love open source and mythologies.
 
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/41438af7db7e2485b78a47644b2c57ce3d8fd17a/img/fastapi.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -25,7 +26,7 @@ I love open source and mythologies.
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<br />
+</br>
 
 ### Github
 
