@@ -20,7 +20,6 @@ I love open source and mythologies.
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/d18409af79a9b19da87432d8b2db3e33d0e9ae7d/img/nginx.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/d18409af79a9b19da87432d8b2db3e33d0e9ae7d/img/traefik.svg">
