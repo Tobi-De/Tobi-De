@@ -2,7 +2,7 @@
 
 ## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
-Welcome to my github bio. I'm a software engineer, Python Software Foundation Fellow, working with [Django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi), [Htmx](https://github.com/bigskysoftware/htmx) and [python](https://github.com/python).
+Welcome to my github bio. I'm a software engineer, Python Software Foundation Fellow, working with [AWS](https://aws.amazon.com/fr/), [Htmx](https://github.com/bigskysoftware/htmx), [Django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi) and [python](https://github.com/python).
 I love open source and mythologies. 
 
 - 🔭 I’m currently learning golang
@@ -15,6 +15,7 @@ I love open source and mythologies.
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/dc4939b2574edd5f2247aebc4a69b56ce9455035/img/django.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/41438af7db7e2485b78a47644b2c57ce3d8fd17a/img/fastapi.svg">
+<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/583de3e015324f79941ad65021096b1b5b16c86a/img/aws-logo.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
