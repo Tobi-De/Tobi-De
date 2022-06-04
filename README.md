@@ -11,7 +11,7 @@ Welcome to my github bio. I'm a software engineer, Python Software Foundation Fe
 
 Some projects I'm working on right now that you might find interesting:
 
-- [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects (WIP)
+- [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects 
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
 - [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) -  A fastapi-users database adapter for tortoise-orm
 - [fastapi-users-redisom](https://github.com/tobi-de/fastapi-users-redisom) -  A fastapi-users database adapter for redis-orm (WIP)
@@ -19,23 +19,11 @@ Some projects I'm working on right now that you might find interesting:
 
 ## Languages and tools
 
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/dc4939b2574edd5f2247aebc4a69b56ce9455035/img/django.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/41438af7db7e2485b78a47644b2c57ce3d8fd17a/img/fastapi.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/d18409af79a9b19da87432d8b2db3e33d0e9ae7d/img/nginx.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/d18409af79a9b19da87432d8b2db3e33d0e9ae7d/img/traefik.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/Tobi-De/Tobi-De/8cf065d9008617b1cb9a58e6308bfbc665b605f9/img/docker.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</br>
-</br>
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
 
----
-
+<div>
 <img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tobi-De&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+</div>
+
