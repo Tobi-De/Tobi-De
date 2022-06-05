@@ -11,19 +11,35 @@ Welcome to my github bio. I'm a software engineer, Python Software Foundation Fe
 
 Some projects I'm working on right now that you might find interesting:
 
-- [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects 
+- [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects
+- [fastapi-storages](https://github.com/tobi-de/fastapi-storages) - Collection of backend storages and orm extensions to simplify file management in fastapi projects (WIP)
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
-- [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) -  A fastapi-users database adapter for tortoise-orm
-- [fastapi-users-redisom](https://github.com/tobi-de/fastapi-users-redisom) -  A fastapi-users database adapter for redis-orm (WIP)
-- [fastapi-storages](https://github.com/tobi-de/fastapi-storages) - Collection of backend storages and orm extensions to simplify files management in fastapi projects (WIP)
+- [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm
+- [fastapi-users-redisom](https://github.com/tobi-de/fastapi-users-redisom) - A fastapi-users database adapter for redis-orm (WIP)
 
-## Languages and tools
+### Languages and tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
 
-<div>
-<img  height="180em"  src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+### Connect with me
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tobi-De&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-</div>
+[![email](https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=282A36)](mailto:degnonfrancis@gmail.com)
+[![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
+[![polywork](https://img.shields.io/badge/-POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
+[![devto](https://img.shields.io/badge/-DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
+[![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
+---
+<details>
+  <summary>:zap: Github Stats</summary>
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Tobi-De&theme=dracula&hide_border=true" />
+  </a>
+</p>
+<br>
+
+ </details>
