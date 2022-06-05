@@ -2,6 +2,12 @@
 
 ## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
+[![email](https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=282A36)](mailto:degnonfrancis@gmail.com)
+[![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
+[![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
+[![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
+[![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
+
 Welcome to my github bio. I'm a software engineer, Python Software Foundation Fellow, working with [aws](https://aws.amazon.com/fr/), [htmx](https://github.com/bigskysoftware/htmx), [django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi) and [python](https://github.com/python). I'm always fascinated when I come across well-structured and organized software code repositories. I sometimes find myself spending a stupid amount of time thinking about the right place to put a file or directory, name a variable, class, module, etc..., and I'm still not good at it :persevere:. I really enjoy watching tech conferences describing a well-designed distributed system that can scale to thousands or millions of users, the trials and failures it took to get there, always looking for those corny programmer jokes, ah delightful :laughing:. Some quick facts:
 
 - 🔭 I’m currently learning golang
@@ -20,14 +26,6 @@ Some projects I'm working on right now that you might find interesting:
 ## Languages and tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
-
-## Connect with me
-
-[![email](https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=282A36)](mailto:degnonfrancis@gmail.com)
-[![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
-[![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
-[![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
-[![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
 ---
 <details>
