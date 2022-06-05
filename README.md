@@ -17,16 +17,16 @@ Some projects I'm working on right now that you might find interesting:
 - [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm
 - [fastapi-users-redisom](https://github.com/tobi-de/fastapi-users-redisom) - A fastapi-users database adapter for redis-orm (WIP)
 
-### Languages and tools
+## Languages and tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
 
-### Connect with me
+## Connect with me
 
 [![email](https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=282A36)](mailto:degnonfrancis@gmail.com)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
-[![polywork](https://img.shields.io/badge/-POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
-[![devto](https://img.shields.io/badge/-DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
+[![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
+[![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
 ---
