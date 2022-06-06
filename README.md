@@ -8,7 +8,10 @@
 [![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
-Welcome to my github bio. I'm a software engineer, Python Software Foundation Fellow, working with [aws](https://aws.amazon.com/fr/), [htmx](https://github.com/bigskysoftware/htmx), [django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi) and [python](https://github.com/python). I'm always fascinated when I come across well-structured and organized software code repositories. I sometimes find myself spending a stupid amount of time thinking about the right place to put a file or directory, name a variable, class, module, etc..., and I'm still not good at it :persevere:. I really enjoy watching tech conferences describing a well-designed distributed system that can scale to thousands or millions of users, the trials and failures it took to get there, always looking for those corny programmer jokes, ah delightful :laughing:. Some quick facts:
+Welcome to my github bio. I'm a software engineer working with [aws](https://aws.amazon.com/fr/), [htmx](https://github.com/bigskysoftware/htmx), [django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi) and [python](https://github.com/python).
+I like software architecure and design, I´m always fascinated when I come across well-structured and organized software code repositories. Not so long ago, I discovered the hype around [microservices](https://microservices.io/) and even if I believe that in no way [monoliths](https://en.wikipedia.org/wiki/Monolithic_application) are dead, this trend has aroused my interest in technologies and approaches that are used to build distributed and scalable systems such as [grpc](https://grpc.io/) and [golang](https://go.dev/).
+
+Some quicks facts:
 
 - 🔭 I’m currently learning golang
 - 🌱 I plan to contribute as much as possible to open source this year (2022)
