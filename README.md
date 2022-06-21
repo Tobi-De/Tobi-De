@@ -5,7 +5,7 @@
 [![email](https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=282A36)](mailto:degnonfrancis@gmail.com)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
 [![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
-[![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
+[![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://www.polywork.com/tobidegnon)
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
 Welcome to my github bio. I'm a software engineer working with [aws](https://aws.amazon.com/fr/), [htmx](https://github.com/bigskysoftware/htmx), [django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi) and [python](https://github.com/python).
