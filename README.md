@@ -29,7 +29,7 @@ Some projects I'm working on right now that you might find interesting:
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
 
 ---
 <details>
