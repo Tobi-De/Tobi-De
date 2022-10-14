@@ -25,7 +25,6 @@ Some projects I'm working on right now that you might find interesting:
 - [fastapi-storages](https://github.com/tobi-de/fastapi-storages) - Collection of backend storages and orm extensions to simplify file management in fastapi projects (WIP)
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
 - [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm
-- [fastapi-users-redisom](https://github.com/tobi-de/fastapi-users-redisom) - A fastapi-users database adapter for redis-orm (WIP)
 
 ## Languages and tools
 
