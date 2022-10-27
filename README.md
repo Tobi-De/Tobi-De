@@ -1,4 +1,4 @@
-![](https://github.com/Tobi-De/Tobi-De/blob/master/img/cover.png?raw=true)
+[![Banner](https://github.com/Tobi-De/Tobi-De/blob/master/img/cover.png?raw=true)](https://oluwatobi.dev)
 
 ## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
@@ -36,7 +36,7 @@ Some projects I'm working on right now that you might find interesting:
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://oluwatobi.dev/">
   <img width="49.5%" src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Tobi-De&theme=dracula&hide_border=true" />
   </a>
