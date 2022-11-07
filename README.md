@@ -59,15 +59,15 @@ My latest blog posts:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 7th, 2022, 12:32:38 PM
+Last Updated: Monday, November 7th, 2022, 3:41:44 PM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-2. ✔️ Closed issue [#20](https://github.com/Tobi-De/dotfm/issues/20) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-3. ⬆️ Pushed 3 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
  <!--RECENT_ACTIVITY:end-->
 
 </details
