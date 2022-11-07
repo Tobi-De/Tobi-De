@@ -27,6 +27,13 @@ Some projects I'm working on right now that you might find interesting:
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
 - [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm
 
+My latest blog posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[see more...](https://oluwatobi.dev)
+
 ## Languages and tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
