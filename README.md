@@ -1,4 +1,4 @@
-[![Banner](https://github.com/Tobi-De/Tobi-De/blob/main/img/cover.png?raw=true)](https://oluwatobi.dev)
+[![Banner](https://github.com/Tobi-De/Tobi-De/blob/main/img/cover-color.png?raw=true)](https://oluwatobi.dev)
 
 ## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
