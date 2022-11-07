@@ -49,6 +49,7 @@ Some projects I'm working on right now that you might find interesting:
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
+<br/>
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
 2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
