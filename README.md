@@ -49,7 +49,8 @@ Some projects I'm working on right now that you might find interesting:
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+ <!--RECENT_ACTIVITY:start-->
+
+ <!--RECENT_ACTIVITY:last_update-->
 
 </details
