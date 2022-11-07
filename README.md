@@ -59,13 +59,13 @@ My latest blog posts:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 7th, 2022, 11:13:11 AM
+Last Updated: Monday, November 7th, 2022, 11:36:33 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-3. ⬆️ Pushed 2 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
+2. ✔️ Closed issue [#20](https://github.com/Tobi-De/dotfm/issues/20) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+3. ⬆️ Pushed 3 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
  <!--RECENT_ACTIVITY:end-->
