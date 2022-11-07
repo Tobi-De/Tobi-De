@@ -50,6 +50,11 @@ Some projects I'm working on right now that you might find interesting:
   <summary>:zap: Recent Github Activity</summary>
 
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#57](https://github.com/Tobi-De/dotfm/issues/57) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+2. ❗️ Opened issue [#57](https://github.com/Tobi-De/dotfm/issues/57) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+3. 🎉 Merged PR [#56](https://github.com/Tobi-De/dotfm/pull/56) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+4. 💪 Opened PR [#56](https://github.com/Tobi-De/dotfm/pull/56) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+5. 🎉 Merged PR [#35](https://github.com/Tobi-De/dj-shop-cart/pull/35) in [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart)
   <!--END_SECTION:activity-->
 
 </details
