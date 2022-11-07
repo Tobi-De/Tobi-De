@@ -14,4 +14,4 @@ jobs:
       - name: Pull in my posts from my personal site
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://oluwatobi.dev/blog/atom.xml/"
+          feed_list: "https://oluwatobi.dev/blog/rss.xml/"
