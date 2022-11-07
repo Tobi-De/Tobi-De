@@ -2,7 +2,8 @@
 
 ## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
 
-[![email](https://img.shields.io/badge/GMAIL-12100E?logo=gmail&color=282A36)](mailto:degnonfrancis@gmail.com)
+[![email](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)](https://oluwatobi.dev)
+[![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:tobidegnon@proton.me)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
 [![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
 [![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://www.polywork.com/tobidegnon)
@@ -44,3 +45,11 @@ Some projects I'm working on right now that you might find interesting:
 <br>
 
  </details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details
