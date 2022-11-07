@@ -49,17 +49,10 @@ Some projects I'm working on right now that you might find interesting:
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
-<br/>
- <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)
-5. ⭐ Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-<!--RECENT_ACTIVITY:end-->
-
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 7th, 2022, 10:35:18 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+ <!--RECENT_ACTIVITY:last_update_end-->
+
+ <!--RECENT_ACTIVITY:start-->
+ <!--RECENT_ACTIVITY:end-->
 
 </details
