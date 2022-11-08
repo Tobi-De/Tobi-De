@@ -36,7 +36,7 @@ My latest publications:
 - [Easy database and migrations reset during development](https://oluwatobi.dev/snippets/easy-database-and-migrations-reset-during-development)
 <!-- BLOG-POST-LIST:END -->
 
-[see more...](https://oluwatobi.dev)
+[see more...](https://oluwatobi.dev/blog)
 
 ## Languages and tools
 
