@@ -10,14 +10,15 @@
 [![hashnode](https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=282A36)](https://tobidegnon.hashnode.dev/)
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
-Welcome to my github bio. I'm a software engineer working with [aws](https://aws.amazon.com/fr/), [htmx](https://github.com/bigskysoftware/htmx), [django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi) and [python](https://github.com/python).
-I like software architecture and design, I´m always fascinated when I come across well-structured and organized software code repositories. Not so long ago, I discovered the hype around [microservices](https://microservices.io/) and even if I believe that in no way [monoliths](https://en.wikipedia.org/wiki/Monolithic_application) are dead, this trend has aroused my interest in technologies and approaches that are used to build distributed and scalable systems such as [grpc](https://grpc.io/) and [golang](https://go.dev/).
+Welcome to my github bio. I'm a software engineer, open source contributor and [occasional blogger](https://oluwatobi.dev/blog/).
+I have some experience as a full-time employee and also as a solo consultant. Some technologies I enjoy working with includes [aws](https://aws.amazon.com/fr/), [rest](https://htmx.org/essays/rest-explained/) ([django](https://github.com/django/django) + [htmx](https://github.com/bigskysoftware/htmx)), and occasionally [fastapi](https://github.com/tiangolo/fastapi) (async python looks interesting).
 
 Some quicks facts:
 
 - 🔭 I’m currently learning golang
 - 🌱 I plan to contribute as much as possible to open source this year (2022)
 - 👯 I’m looking to collaborate on anything python related
+- ✍️ I like to write down my thoughts to clarify my ideas
 - 🔊 I love listening to Pop, Modern Rock, J-pop, and many other kinds of music
 
 Some projects I'm working on right now that you might find interesting:
@@ -39,7 +40,7 @@ My latest publications:
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,docker,nginx,vscode,js,git,html,css,vue,nuxt&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,golang,docker,nginx,vscode,js,git,github,html,css&theme=dark)](https://skillicons.dev)
 
 ---
 <details>
