@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '32 */4 * * *'
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
@@ -11,7 +11,33 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in my posts from my personal site
-        uses: gautamkrishnar/blog-post-workflow@v1
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          feed_list: "https://oluwatobi.dev/blog/rss.xml/"
+            python-version: 3.9
+
+      - uses: actions/cache@v2
+        name: Configure pip caching
+        with:
+            path: ~/.cache/pip
+            key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+            restore-keys: |
+              ${{ runner.os }}-pip-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install -r requirements.txt
+
+      - name: Update README
+        run: |-
+          python add_blog_posts.py
+          cat README.md
+
+      - name: Commit and push if README changed
+        run: |-
+          git diff
+          git config --global user.email "tobidegnon@proton.me"
+          git config --global user.name "Tobi DEGNON"
+          git diff --quiet || (git add README.md && git commit -m "Updated README with blog posts")
+          git push

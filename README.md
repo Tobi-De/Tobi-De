@@ -11,14 +11,14 @@
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
 Welcome to my github bio. I'm a software engineer working with [aws](https://aws.amazon.com/fr/), [htmx](https://github.com/bigskysoftware/htmx), [django](https://github.com/django/django), [fastapi](https://github.com/tiangolo/fastapi) and [python](https://github.com/python).
-I like software architecure and design, I´m always fascinated when I come across well-structured and organized software code repositories. Not so long ago, I discovered the hype around [microservices](https://microservices.io/) and even if I believe that in no way [monoliths](https://en.wikipedia.org/wiki/Monolithic_application) are dead, this trend has aroused my interest in technologies and approaches that are used to build distributed and scalable systems such as [grpc](https://grpc.io/) and [golang](https://go.dev/).
+I like software architecture and design, I´m always fascinated when I come across well-structured and organized software code repositories. Not so long ago, I discovered the hype around [microservices](https://microservices.io/) and even if I believe that in no way [monoliths](https://en.wikipedia.org/wiki/Monolithic_application) are dead, this trend has aroused my interest in technologies and approaches that are used to build distributed and scalable systems such as [grpc](https://grpc.io/) and [golang](https://go.dev/).
 
 Some quicks facts:
 
 - 🔭 I’m currently learning golang
 - 🌱 I plan to contribute as much as possible to open source this year (2022)
 - 👯 I’m looking to collaborate on anything python related
-- 🔊 I love listening to Pop, Mordern Rock, J-pop, and many other kinds of music
+- 🔊 I love listening to Pop, Modern Rock, J-pop, and many other kinds of music
 
 Some projects I'm working on right now that you might find interesting:
 
@@ -27,7 +27,7 @@ Some projects I'm working on right now that you might find interesting:
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
 - [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm
 
-My latest blog posts:
+My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -70,4 +70,4 @@ Last Updated: Tuesday, November 8th, 2022, 10:16:42 AM
 5. ⭐ Starred [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe)
  <!--RECENT_ACTIVITY:end-->
 
-</details
+</details>
