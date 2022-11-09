@@ -63,14 +63,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 9th, 2022, 4:57:49 PM
+Last Updated: Wednesday, November 9th, 2022, 5:23:50 PM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
+1. 🎉 Merged PR [#62](https://github.com/Tobi-De/dotfm/pull/62) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+3. 💪 Opened PR [#62](https://github.com/Tobi-De/dotfm/pull/62) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
  <!--RECENT_ACTIVITY:end-->
 
