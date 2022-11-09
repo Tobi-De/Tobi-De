@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 9th, 2022, 9:15:04 AM
+Last Updated: Wednesday, November 9th, 2022, 9:40:17 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+1. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-3. 💪 Opened PR [#61](https://github.com/Tobi-De/dotfm/pull/61) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-4. 🎉 Merged PR [#61](https://github.com/Tobi-De/dotfm/pull/61) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+4. 💪 Opened PR [#61](https://github.com/Tobi-De/dotfm/pull/61) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+5. 🎉 Merged PR [#61](https://github.com/Tobi-De/dotfm/pull/61) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
  <!--RECENT_ACTIVITY:end-->
 
 </details>
