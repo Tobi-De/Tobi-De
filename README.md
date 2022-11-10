@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 10th, 2022, 7:37:09 AM
+Last Updated: Thursday, November 10th, 2022, 8:24:14 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#62](https://github.com/Tobi-De/dotfm/pull/62) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+1. ⬆️ Pushed 2 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-3. 💪 Opened PR [#62](https://github.com/Tobi-De/dotfm/pull/62) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
+3. 🎉 Merged PR [#64](https://github.com/Tobi-De/dotfm/pull/64) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+4. 💪 Opened PR [#64](https://github.com/Tobi-De/dotfm/pull/64) in [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/dotfm](https://github.com/Tobi-De/dotfm)
  <!--RECENT_ACTIVITY:end-->
 
 </details>
