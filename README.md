@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 8:47:10 AM
+Last Updated: Monday, November 14th, 2022, 9:15:47 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mongkok/fastapi-debug-toolbar](https://github.com/mongkok/fastapi-debug-toolbar)
-2. ⭐ Starred [89luca89/distrobox](https://github.com/89luca89/distrobox)
-3. ⭐ Starred [etianen/django-reversion](https://github.com/etianen/django-reversion)
-4. ⭐ Starred [ai/nanoid](https://github.com/ai/nanoid)
-5. ⭐ Starred [nat-n/poethepoet](https://github.com/nat-n/poethepoet)
+1. ⭐ Starred [dabapps/django-zen-queries](https://github.com/dabapps/django-zen-queries)
+2. ⭐ Starred [thedrow/fastuuid](https://github.com/thedrow/fastuuid)
+3. ⭐ Starred [mongkok/fastapi-debug-toolbar](https://github.com/mongkok/fastapi-debug-toolbar)
+4. ⭐ Starred [89luca89/distrobox](https://github.com/89luca89/distrobox)
+5. ⭐ Starred [etianen/django-reversion](https://github.com/etianen/django-reversion)
  <!--RECENT_ACTIVITY:end-->
 
 </details>
