@@ -63,13 +63,13 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 1st, 2022, 4:24:08 AM
+Last Updated: Friday, December 2nd, 2022, 4:21:57 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/fuzzy-couscous-cli](https://github.com/Tobi-De/fuzzy-couscous-cli)
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/fuzzy-couscous-cli](https://github.com/Tobi-De/fuzzy-couscous-cli)
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)
  <!--RECENT_ACTIVITY:end-->
