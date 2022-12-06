@@ -24,7 +24,7 @@ Some quicks facts:
 Some projects I'm working on right now that you might find interesting:
 
 - [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects
-- [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A django project template
+- [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
 - [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm
 
