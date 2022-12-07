@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 6th, 2022, 4:21:15 AM
+Last Updated: Wednesday, December 7th, 2022, 4:22:08 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tiangolo/typer](https://github.com/tiangolo/typer)
-2. ⭐ Starred [tiangolo/typer](https://github.com/tiangolo/typer)
-3. ⭐ Starred [jazzband/pip-tools](https://github.com/jazzband/pip-tools)
-4. 💬 Commented on [#23](https://github.com/boxed/django-fastdev/issues/23#issuecomment-1338005960) in [boxed/django-fastdev](https://github.com/boxed/django-fastdev)
-5. 💬 Commented on [#10](https://github.com/Tobi-De/fuzzy-couscous/issues/10#issuecomment-1338002728) in [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
+1. ✌️ Released [2.1.2](https://github.com/Tobi-De/fuzzy-couscous/releases/tag/2.1.2) in [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
+3. ✌️ Released [2.1.1](https://github.com/Tobi-De/fuzzy-couscous/releases/tag/2.1.1) in [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
+4. ⬆️ Pushed 2 commit(s) to [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
+5. ✌️ Released [2.1.0](https://github.com/Tobi-De/fuzzy-couscous/releases/tag/2.1.0) in [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)
  <!--RECENT_ACTIVITY:end-->
 
 </details>
