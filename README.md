@@ -31,9 +31,7 @@ Some projects I'm working on right now that you might find interesting:
 My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
-- [htmx support in pycharm](https://oluwatobi.dev/blog/posts/htmx-support-in-pycharm)
-- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/posts/bootstraping-a-production-ready-django-project)
-- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/snippets/easy-database-and-migrations-reset-during-development)
+
 <!-- BLOG-POST-LIST:END -->
 
 [see more...](https://oluwatobi.dev/blog)
