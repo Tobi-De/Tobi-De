@@ -61,15 +61,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 12th, 2023, 4:21:20 AM
+Last Updated: Friday, January 13th, 2023, 4:21:51 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [python-attrs/cattrs](https://github.com/python-attrs/cattrs)<br>
-2. ⭐ Starred [calibreapp/image-actions](https://github.com/calibreapp/image-actions)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⭐ Starred [rosszurowski/tandem](https://github.com/rosszurowski/tandem)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
