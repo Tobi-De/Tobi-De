@@ -63,11 +63,11 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 28th, 2023, 4:20:45 AM
+Last Updated: Sunday, January 29th, 2023, 4:20:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)<br>
+1. ⭐ Starred [xManager-App/xManager](https://github.com/xManager-App/xManager)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
