@@ -63,14 +63,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 2nd, 2023, 4:21:38 AM
+Last Updated: Friday, February 3rd, 2023, 4:21:51 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart)<br>
-3. ❌ Closed PR [#17](https://github.com/Tobi-De/dj-shop-cart/pull/17) in [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart)<br>
-4. ⬆️ Pushed 5 commit(s) to [Tobi-De/dj-shop-cart](https://github.com/Tobi-De/dj-shop-cart)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
