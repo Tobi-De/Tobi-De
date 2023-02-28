@@ -31,6 +31,7 @@ Some projects I'm working on right now that you might find interesting:
 My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/posts/fuzzy_couscous_the_cli_for_a_better_django_development_experience)
 - [htmx support in pycharm](https://oluwatobi.dev/blog/posts/htmx-support-in-pycharm)
 - [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/posts/bootstraping-a-production-ready-django-project)
 - [Easy database and migrations reset during development](https://oluwatobi.dev/blog/snippets/easy-database-and-migrations-reset-during-development)
