@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 14th, 2023, 4:21:54 AM
+Last Updated: Wednesday, March 15th, 2023, 4:21:34 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)<br>
-2. ⭐ Starred [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard)<br>
-3. ✌️ Released [4.0.3](https://github.com/Tobi-De/qosic-sdk/releases/tag/4.0.3) in [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [permitio/opal](https://github.com/permitio/opal)<br>
+2. ⭐ Starred [open-policy-agent/opa](https://github.com/open-policy-agent/opa)<br>
+3. ⭐ Starred [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)<br>
+4. ⭐ Starred [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)<br>
+5. ⭐ Starred [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
