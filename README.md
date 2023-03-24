@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 23rd, 2023, 4:20:15 AM
+Last Updated: Friday, March 24th, 2023, 4:20:24 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [logan-markewich/llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack)<br>
-2. 💬 Commented on [#135](https://github.com/second-state/chat-with-chatgpt/issues/135#issuecomment-1479040965) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
-3. 💬 Commented on [#135](https://github.com/second-state/chat-with-chatgpt/issues/135#issuecomment-1479039442) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
-4. ✔️ Closed issue [#135](https://github.com/second-state/chat-with-chatgpt/issues/135) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
-5. 💬 Commented on [#135](https://github.com/second-state/chat-with-chatgpt/issues/135#issuecomment-1479034959) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
+1. ⭐ Starred [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting)<br>
+2. ⭐ Starred [logan-markewich/llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack)<br>
+3. 💬 Commented on [#135](https://github.com/second-state/chat-with-chatgpt/issues/135#issuecomment-1479040965) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
+4. 💬 Commented on [#135](https://github.com/second-state/chat-with-chatgpt/issues/135#issuecomment-1479039442) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
+5. ✔️ Closed issue [#135](https://github.com/second-state/chat-with-chatgpt/issues/135) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
