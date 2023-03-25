@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 24th, 2023, 4:20:24 AM
+Last Updated: Saturday, March 25th, 2023, 4:19:35 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting)<br>
-2. ⭐ Starred [logan-markewich/llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack)<br>
-3. 💬 Commented on [#135](https://github.com/second-state/chat-with-chatgpt/issues/135#issuecomment-1479040965) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
-4. 💬 Commented on [#135](https://github.com/second-state/chat-with-chatgpt/issues/135#issuecomment-1479039442) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
-5. ✔️ Closed issue [#135](https://github.com/second-state/chat-with-chatgpt/issues/135) in [second-state/chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)<br>
+1. ⭐ Starred [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)<br>
+2. ⭐ Starred [nsarrazin/serge](https://github.com/nsarrazin/serge)<br>
+3. ⭐ Starred [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
