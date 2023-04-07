@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 6th, 2023, 4:19:26 AM
+Last Updated: Friday, April 7th, 2023, 4:19:43 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⭐ Starred [leptos-rs/leptos](https://github.com/leptos-rs/leptos)<br>
-4. ⭐ Starred [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)<br>
-5. ⭐ Starred [dinoperovic/django-salesman](https://github.com/dinoperovic/django-salesman)<br>
+1. ⭐ Starred [W1ldPo1nter/django-queryable-properties](https://github.com/W1ldPo1nter/django-queryable-properties)<br>
+2. ⭐ Starred [terminalkitten/django-insights](https://github.com/terminalkitten/django-insights)<br>
+3. ⭐ Starred [raagin/django-streamfield](https://github.com/raagin/django-streamfield)<br>
+4. ⭐ Starred [django-beam/django-beam](https://github.com/django-beam/django-beam)<br>
+5. ⭐ Starred [mahyar-amiri/django-reaction-system](https://github.com/mahyar-amiri/django-reaction-system)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
