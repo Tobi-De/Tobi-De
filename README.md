@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 23rd, 2023, 4:19:26 AM
+Last Updated: Monday, April 24th, 2023, 4:20:09 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-2. ⭐ Starred [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)<br>
-3. ⭐ Starred [suno-ai/bark](https://github.com/suno-ai/bark)<br>
-4. ⭐ Starred [tomusher/wagtail-ai](https://github.com/tomusher/wagtail-ai)<br>
-5. ⭐ Starred [dy/spect](https://github.com/dy/spect)<br>
+2. ⭐ Starred [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⭐ Starred [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)<br>
+5. ⭐ Starred [suno-ai/bark](https://github.com/suno-ai/bark)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
