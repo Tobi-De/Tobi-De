@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 4:19:28 AM
+Last Updated: Friday, May 5th, 2023, 4:19:03 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ra-systems/django-slick-reporting](https://github.com/ra-systems/django-slick-reporting)<br>
+1. ⭐ Starred [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⭐ Starred [Textualize/frogmouth](https://github.com/Textualize/frogmouth)<br>
+5. ⭐ Starred [ra-systems/django-slick-reporting](https://github.com/ra-systems/django-slick-reporting)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
