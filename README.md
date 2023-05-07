@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 6th, 2023, 4:18:23 AM
+Last Updated: Sunday, May 7th, 2023, 4:18:41 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⭐ Starred [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)<br>
-5. ⭐ Starred [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai)<br>
+4. ⭐ Starred [amoffat/sh](https://github.com/amoffat/sh)<br>
+5. ⭐ Starred [mahmoud/boltons](https://github.com/mahmoud/boltons)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
