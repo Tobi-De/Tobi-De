@@ -4,7 +4,7 @@ import feedparser
 
 
 def get_latest_posts():
-    posts = feedparser.parse("https://oluwatobi.dev/blog/rss.xml/")["entries"][:5]
+    posts = feedparser.parse("https://oluwatobi.dev/rss.xml/")["entries"][:5]
     posts_md = [f'- [{post["title"]}]({post["link"]})' for post in posts]
     return "\n" + "\n".join(posts_md) + "\n"
 
