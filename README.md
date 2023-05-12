@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 11th, 2023, 4:18:44 AM
+Last Updated: Friday, May 12th, 2023, 4:18:39 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⭐ Starred [nate-xyz/resonance](https://github.com/nate-xyz/resonance)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⭐ Starred [kra-mo/cartridges](https://github.com/kra-mo/cartridges)<br>
+5. ⭐ Starred [imartinez/privateGPT](https://github.com/imartinez/privateGPT)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
