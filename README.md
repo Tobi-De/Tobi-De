@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 23rd, 2023, 4:18:35 AM
+Last Updated: Wednesday, May 24th, 2023, 4:18:52 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tobi-De/hyperview_starter](https://github.com/Tobi-De/hyperview_starter)<br>
-2. 📔 Created new repository [Tobi-De/python_hyperview](https://github.com/Tobi-De/python_hyperview)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/hyperview_starter](https://github.com/Tobi-De/hyperview_starter)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/hyperview_starter](https://github.com/Tobi-De/hyperview_starter)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/hyperview_starter](https://github.com/Tobi-De/hyperview_starter)<br>
+1. ⭐ Starred [krasun/damngood.tools](https://github.com/krasun/damngood.tools)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
