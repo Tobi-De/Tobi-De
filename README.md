@@ -64,12 +64,12 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 7th, 2023, 4:19:14 AM
+Last Updated: Thursday, June 8th, 2023, 4:19:06 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [danjac/dissonance](https://github.com/danjac/dissonance)<br>
-2. ⭐ Starred [valberg/django-sse](https://github.com/valberg/django-sse)<br>
+1. ⭐ Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)<br>
+2. ⭐ Starred [dreamsofcode-io/neovim-python](https://github.com/dreamsofcode-io/neovim-python)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
