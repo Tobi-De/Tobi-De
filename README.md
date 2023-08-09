@@ -32,9 +32,9 @@ My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
 - [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project)
+- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development)
 - [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience)
 - [htmx support in pycharm](https://oluwatobi.dev/blog/htmx-support-in-pycharm)
-- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development)
 <!-- BLOG-POST-LIST:END -->
 
 [see more...](https://oluwatobi.dev/blog)
