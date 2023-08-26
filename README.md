@@ -64,11 +64,11 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 25th, 2023, 4:18:07 AM
+Last Updated: Saturday, August 26th, 2023, 4:17:05 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anze3db/django-tui](https://github.com/anze3db/django-tui)<br>
+1. ⭐ Starred [Slimbook-Team/slimbookface](https://github.com/Slimbook-Team/slimbookface)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
