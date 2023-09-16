@@ -5,7 +5,7 @@
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)](https://oluwatobi.dev)
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:tobidegnon@proton.me)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
-[![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://www.polywork.com/tobi99)
+[![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://polywork.oluwatobi.dev)
 [![devto](https://img.shields.io/badge/DEV.TO-12100E?logo=dev.to&color=282A36)](https://dev.to/tobi)
 [![hashnode](https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=282A36)](https://tobidegnon.hashnode.dev/)
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
