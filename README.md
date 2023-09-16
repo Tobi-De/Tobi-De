@@ -23,7 +23,7 @@ Some quicks facts:
 
 Some projects I'm working on right now that you might find interesting:
 
-- [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): A standalone Server-Sent Events relay service, ideal for Django projects seeking straightforward real-time capabilities without the need for Daphne and async Django setup.
+- [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code
 - [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects
 - [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
