@@ -32,10 +32,11 @@ Some projects I'm working on right now that you might find interesting:
 My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project)
 - [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development)
 - [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience)
 - [htmx support in pycharm](https://oluwatobi.dev/blog/htmx-support-in-pycharm)
+- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project)
+- [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django)
 <!-- BLOG-POST-LIST:END -->
 
 [see more...](https://oluwatobi.dev/blog)
