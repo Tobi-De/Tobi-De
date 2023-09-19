@@ -10,24 +10,21 @@
 [![hashnode](https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=282A36)](https://tobidegnon.hashnode.dev/)
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
-Welcome to my github bio. I'm a software engineer, open source contributor and [occasional blogger](https://oluwatobi.dev/blog/).
-I have some experience as a full-time employee and also as a solo consultant. Some technologies I enjoy working with includes [aws](https://aws.amazon.com/fr/), [rest](https://htmx.org/essays/rest-explained/) ([django](https://github.com/django/django) + [htmx](https://github.com/bigskysoftware/htmx)), and occasionally [fastapi](https://github.com/tiangolo/fastapi) (async python looks interesting).
+Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and [occasional blogger](https://oluwatobi.dev/blog/). I spend my days building full-stack applications and tools in Python, and some of the technologies I work with include [AWS](https://aws.amazon.com/fr/), [Django](https://github.com/django/django), [HTMX](https://github.com/bigskysoftware/htmx), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Docker](https://www.docker.com/), and occasionally [FastAPI](https://github.com/tiangolo/fastapi) (async Python has piqued my interest).
 
-Some quicks facts:
+- 🔭 Currently diving into Golang.
+- 👯 Open to new work and collaboration opportunities.
+- ✍️ I express my thoughts through writing to refine my ideas.
+- 🧠 You'll often find me digging into my **second-brain** folder on my laptop—it's a handy resource!
+- 🔊 Music enthusiast with a taste for Pop, Modern Rock, J-pop, and more.
 
-- 🔭 I’m currently learning golang
-- 🌱 I plan to contribute as much as possible to open source this year (2022)
-- 👯 I’m looking to collaborate on anything python related
-- ✍️ I like to write down my thoughts to clarify my ideas
-- 🔊 I love listening to Pop, Modern Rock, J-pop, and many other kinds of music
+Here are a few projects I'm currently working on that might be of interest to you:
 
-Some projects I'm working on right now that you might find interesting:
-
-- [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code
-- [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects
-- [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience
-- [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects
-- [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm
+- [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
+- [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects.
+- [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
+- [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart) - A cart manager for django projects.
+- [fastapi-users-tortoise](https://github.com/tobi-de/fastapi-users-tortoise) - A fastapi-users database adapter for tortoise-orm.
 
 My latest publications:
 
@@ -39,7 +36,7 @@ My latest publications:
 - [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django)
 <!-- BLOG-POST-LIST:END -->
 
-[see more...](https://oluwatobi.dev/blog)
+[read more...](https://oluwatobi.dev/blog)
 
 ## Languages and tools
 
@@ -78,3 +75,5 @@ Last Updated: Tuesday, September 19th, 2023, 4:19:06 AM
  <!--RECENT_ACTIVITY:end-->
 
 </details>
+
+> 😄 Need a stress-reliever? Find some laughs at [grugbrain.dev](https://grugbrain.dev/).
