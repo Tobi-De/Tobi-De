@@ -1,6 +1,6 @@
 [![Banner](https://github.com/Tobi-De/Tobi-De/blob/main/img/cover-color.png?raw=true)](https://oluwatobi.dev)
 
-## Hi, I'm Tobi! 👋🏾 👨🏿‍💻
+## Hi, I'm Tobi! 👋🏾
 
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)](https://oluwatobi.dev)
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:tobidegnon@proton.me)
