@@ -1,11 +1,18 @@
 from pathlib import Path
+from operator import itemgetter
 
 import feedparser
 
 
+def _extract_date(post):
+    date_string = post["published"]
+    return " ".join(date_string.split(" ")[:4])
+
+
 def get_latest_posts():
-    posts = feedparser.parse("https://oluwatobi.dev/rss.xml/")["entries"][:5]
-    posts_md = [f'- [{post["title"]}]({post["link"]})' for post in posts]
+    posts = feedparser.parse("https://oluwatobi.dev/rss.xml/")["entries"]
+    posts = sorted(posts, key=itemgetter("published_parsed"), reverse=True)[:6]
+    posts_md = [f'- [{post["title"]}]({post["link"]}) [{_extract_date(post)}]' for post in posts]
     return "\n" + "\n".join(posts_md) + "\n"
 
 
