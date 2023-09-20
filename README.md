@@ -49,8 +49,8 @@ My latest publications:
 <br/>
 <p align="left">
   <a href="https://oluwatobi.dev/">
-  <img width="49.5%" src="https://github-readme-stats.tobi-de.vercel.app/api?username=Tobi-De&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Tobi-De&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="http://stats.oluwatobi.dev/api/?username=Tobi-De&show_icons=true&hide_border=true&theme=dracula" />
+    <img width="49.5%" src="http://streak.oluwatobi.dev/?user=Tobi-De&theme=dracula&hide_border=true" />
   </a>
 </p>
 <br>
