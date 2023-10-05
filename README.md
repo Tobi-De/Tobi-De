@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 4th, 2023, 4:18:32 AM
+Last Updated: Thursday, October 5th, 2023, 4:18:22 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [tomasvotava/fastapi-sso](https://github.com/tomasvotava/fastapi-sso)<br>
+2. ⭐ Starred [samuelcolvin/pytest-speed](https://github.com/samuelcolvin/pytest-speed)<br>
+3. ⭐ Starred [xataio/pgroll](https://github.com/xataio/pgroll)<br>
+4. ⭐ Starred [SmileyChris/easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails)<br>
+5. ⭐ Starred [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
