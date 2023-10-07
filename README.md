@@ -63,13 +63,13 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 6th, 2023, 4:18:30 AM
+Last Updated: Saturday, October 7th, 2023, 4:18:02 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [alitrack/duckdb_fdw](https://github.com/alitrack/duckdb_fdw)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
