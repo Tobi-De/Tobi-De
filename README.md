@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 7th, 2023, 4:18:02 AM
+Last Updated: Sunday, October 8th, 2023, 4:18:02 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alitrack/duckdb_fdw](https://github.com/alitrack/duckdb_fdw)<br>
+1. ⭐ Starred [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⭐ Starred [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)<br>
+4. ⭐ Starred [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
