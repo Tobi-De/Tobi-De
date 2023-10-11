@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 10th, 2023, 4:18:20 AM
+Last Updated: Wednesday, October 11th, 2023, 4:18:18 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [usebruno/bruno](https://github.com/usebruno/bruno)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+3. ❗️ Opened issue [#17](https://github.com/Tobi-De/leerming/issues/17) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+5. ✔️ Closed issue [#16](https://github.com/Tobi-De/leerming/issues/16) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
