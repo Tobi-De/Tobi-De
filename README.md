@@ -63,15 +63,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 11th, 2023, 4:18:18 AM
+Last Updated: Thursday, October 12th, 2023, 4:18:44 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [usebruno/bruno](https://github.com/usebruno/bruno)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-3. ❗️ Opened issue [#17](https://github.com/Tobi-De/leerming/issues/17) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-5. ✔️ Closed issue [#16](https://github.com/Tobi-De/leerming/issues/16) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+1. 🎉 Merged PR [#7](https://github.com/Tobi-De/github-readme-stats/pull/7) in [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
