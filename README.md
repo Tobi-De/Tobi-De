@@ -29,6 +29,7 @@ Here are a few projects I'm currently working on that might be of interest to yo
 My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive guide to  multi-timezone support in Django](https://oluwatobi.dev/blog/a-comprehensive-guide-to-multi-timezone-support-in-django) [Wed, 11 Oct 2023]
 - [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [Sat, 16 Sep 2023]
 - [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [Mon, 27 Feb 2023]
 - [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [Sat, 05 Nov 2022]
