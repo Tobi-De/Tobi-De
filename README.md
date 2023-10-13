@@ -64,14 +64,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 12th, 2023, 4:18:44 AM
+Last Updated: Friday, October 13th, 2023, 4:18:36 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/Tobi-De/github-readme-stats/pull/7) in [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+1. ⬆️ Pushed 7 commit(s) to [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
+2. 🎉 Merged PR [#8](https://github.com/Tobi-De/github-readme-stats/pull/8) in [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
