@@ -64,15 +64,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 15th, 2023, 4:17:48 AM
+Last Updated: Monday, October 16th, 2023, 4:18:50 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [carltongibson/django-unique-user-email](https://github.com/carltongibson/django-unique-user-email)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⬆️ Pushed 12 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+3. ✔️ Closed issue [#14](https://github.com/Tobi-De/leerming/issues/14) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+4. ⬆️ Pushed 6 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+5. 🎉 Merged PR [#18](https://github.com/Tobi-De/leerming/pull/18) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
