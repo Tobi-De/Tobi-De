@@ -20,6 +20,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 
 Here are a few projects I'm currently working on that might be of interest to you:
 
+- [leerming](): An implementation of the [Leitner box](https://en.wikipedia.org/wiki/Leitner_system) that can generate flashcards using llms from documents, youtube videos and web page links.
 - [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
 - [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - A cookiecutter / template for fastapi projects.
 - [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
