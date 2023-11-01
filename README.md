@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 31st, 2023, 4:18:33 AM
+Last Updated: Wednesday, November 1st, 2023, 4:18:45 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.4.4](https://github.com/Tobi-De/leerming/releases/tag/v0.4.4) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-3. ✌️ Released [v0.4.3](https://github.com/Tobi-De/leerming/releases/tag/v0.4.3) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+1. ❗️ Opened issue [#36](https://github.com/Tobi-De/leerming/issues/36) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+2. ⭐ Starred [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
-5. ⭐ Starred [protibimbok/django-vite-plugin](https://github.com/protibimbok/django-vite-plugin)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
