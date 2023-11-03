@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 2nd, 2023, 4:18:42 AM
+Last Updated: Friday, November 3rd, 2023, 4:18:35 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
-2. ⭐ Starred [django-ordered-model/django-ordered-model](https://github.com/django-ordered-model/django-ordered-model)<br>
-3. ⭐ Starred [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ❗️ Opened issue [#37](https://github.com/Tobi-De/fuzzy-couscous/issues/37) in [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)<br>
+1. ⭐ Starred [jmorganca/ollama](https://github.com/jmorganca/ollama)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⭐ Starred [a-h/templ](https://github.com/a-h/templ)<br>
+4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
+5. ⭐ Starred [django-ordered-model/django-ordered-model](https://github.com/django-ordered-model/django-ordered-model)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
