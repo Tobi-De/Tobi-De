@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 6th, 2023, 4:19:16 AM
+Last Updated: Tuesday, November 7th, 2023, 4:18:40 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-3. ⬆️ Pushed 2 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-5. ⭐ Starred [adamghill/build-docker-and-deploy-to-caprover](https://github.com/adamghill/build-docker-and-deploy-to-caprover)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
+4. ⭐ Starred [bndr/pipreqs](https://github.com/bndr/pipreqs)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
