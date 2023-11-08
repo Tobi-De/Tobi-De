@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 7th, 2023, 4:18:40 AM
+Last Updated: Wednesday, November 8th, 2023, 4:18:33 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
-4. ⭐ Starred [bndr/pipreqs](https://github.com/bndr/pipreqs)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/baserow_dynamic_table](https://github.com/Tobi-De/baserow_dynamic_table)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
