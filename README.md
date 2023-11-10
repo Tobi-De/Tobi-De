@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 9th, 2023, 4:18:40 AM
+Last Updated: Friday, November 10th, 2023, 4:18:49 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tonybaloney/pycharm-security](https://github.com/tonybaloney/pycharm-security)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/baserow_dynamic_table](https://github.com/Tobi-De/baserow_dynamic_table)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
-3. ⭐ Starred [bobthemighty/punq](https://github.com/bobthemighty/punq)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
-5. ❗️ Opened issue [#40](https://github.com/Tobi-De/leerming/issues/40) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+3. ⭐ Starred [DanCardin/cappa](https://github.com/DanCardin/cappa)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/baserow_dynamic_table](https://github.com/Tobi-De/baserow_dynamic_table)<br>
+5. ⬆️ Pushed 3 commit(s) to [Tobi-De/event-ease](https://github.com/Tobi-De/event-ease)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
