@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 10th, 2023, 4:18:49 AM
+Last Updated: Saturday, November 11th, 2023, 4:18:11 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/baserow_dynamic_table](https://github.com/Tobi-De/baserow_dynamic_table)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/jenova](https://github.com/Tobi-De/jenova)<br>
-3. ⭐ Starred [DanCardin/cappa](https://github.com/DanCardin/cappa)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/baserow_dynamic_table](https://github.com/Tobi-De/baserow_dynamic_table)<br>
-5. ⬆️ Pushed 3 commit(s) to [Tobi-De/event-ease](https://github.com/Tobi-De/event-ease)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ✌️ Released [v0.4.6](https://github.com/Tobi-De/leerming/releases/tag/v0.4.6) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+5. ✔️ Closed issue [#37](https://github.com/Tobi-De/leerming/issues/37) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
