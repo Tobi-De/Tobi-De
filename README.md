@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 12th, 2023, 4:18:14 AM
+Last Updated: Monday, November 13th, 2023, 4:19:09 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/baserow_dynamic_table](https://github.com/Tobi-De/baserow_dynamic_table)<br>
+1. ✔️ Closed issue [#39](https://github.com/Tobi-De/leerming/issues/39) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ✌️ Released [v0.4.6](https://github.com/Tobi-De/leerming/releases/tag/v0.4.6) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+5. ⭐ Starred [adamghill/transformd](https://github.com/adamghill/transformd)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
