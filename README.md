@@ -67,15 +67,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 13th, 2023, 4:19:09 AM
+Last Updated: Tuesday, November 14th, 2023, 4:18:32 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#39](https://github.com/Tobi-De/leerming/issues/39) in [Tobi-De/leerming](https://github.com/Tobi-De/leerming)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⭐ Starred [adamghill/transformd](https://github.com/adamghill/transformd)<br>
+4. 💪 Opened PR [#23](https://github.com/PyHAT-stack/awesome-python-htmx/pull/23) in [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/awesome-python-htmx](https://github.com/Tobi-De/awesome-python-htmx)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
