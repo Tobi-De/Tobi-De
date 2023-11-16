@@ -16,7 +16,7 @@ def _extract_date(post):
 
 def get_latest_posts():
     posts = feedparser.parse("https://oluwatobi.dev/rss.xml/")["entries"]
-    posts = sorted(posts, key=itemgetter("published_parsed"), reverse=True)[:6]
+    posts = sorted(posts, key=itemgetter("published_parsed"), reverse=True)[:10]
     posts_md = [
         f'- [{post["title"]}]({post["link"]}) [{_extract_date(post)}]' for post in posts
     ]
