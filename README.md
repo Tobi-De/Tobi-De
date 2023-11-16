@@ -32,12 +32,12 @@ To see my full list of noteworthy projects, visit: [My Projects](https://oluwato
 My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive guide to  multi-timezone support in Django](https://oluwatobi.dev/blog/a-comprehensive-guide-to-multi-timezone-support-in-django) [2023-10-11T16:00:00-05:00]
-- [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [2023-09-16T16:00:00-05:00]
-- [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [2023-02-27T16:00:00-06:00]
-- [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [2022-11-05T16:00:00-05:00]
-- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30T16:00:00-05:00]
-- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [2022-10-30T16:00:00-05:00]
+- [A comprehensive guide to  multi-timezone support in Django](https://oluwatobi.dev/blog/a-comprehensive-guide-to-multi-timezone-support-in-django) [2023-10-11]
+- [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [2023-09-16]
+- [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [2023-02-27]
+- [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [2022-11-05]
+- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30]
+- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [2022-10-30]
 <!-- BLOG-POST-LIST:END -->
 
 [read more...](https://oluwatobi.dev/blog)
