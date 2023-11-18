@@ -68,15 +68,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 4:19:39 AM
+Last Updated: Saturday, November 18th, 2023, 4:18:54 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-2. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-3. ⭐ Starred [bmihelac/pytest-image-snapshot](https://github.com/bmihelac/pytest-image-snapshot)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/baserow_dynamic_table](https://github.com/Tobi-De/baserow_dynamic_table)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⭐ Starred [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
