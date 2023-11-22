@@ -21,9 +21,10 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 Here are a few projects I'm currently working on that might be of interest to you:
 
 <!-- PROJECT-LIST:START -->
+- [htmx_extensions](https://github.com/Tobi-De/htmx_extensions): A registry of htmx extensions, both official and third-party.
 - [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
-- [leerming](https://github.com/Tobi-De/leerming): An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 - [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous): A cli tool to bootstrap your django projects and enhance your development experience. 
+- [leerming](https://github.com/Tobi-De/leerming): An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
 - [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
 <!-- PROJECT-LIST:END -->
