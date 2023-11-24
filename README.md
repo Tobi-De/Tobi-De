@@ -69,15 +69,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 4:19:24 AM
+Last Updated: Friday, November 24th, 2023, 4:19:05 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
-2. ✔️ Closed issue [#3](https://github.com/Tobi-De/htmx_extensions/issues/3) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
-3. ❗️ Opened issue [#3](https://github.com/Tobi-De/htmx_extensions/issues/3) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
-4. ✔️ Closed issue [#2](https://github.com/Tobi-De/htmx_extensions/issues/2) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
-5. ❗️ Opened issue [#2](https://github.com/Tobi-De/htmx_extensions/issues/2) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
+1. ❗️ Opened issue [#10](https://github.com/Tobi-De/sse_relay_server/issues/10) in [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
+3. ✔️ Closed issue [#3](https://github.com/Tobi-De/htmx_extensions/issues/3) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
+4. ❗️ Opened issue [#3](https://github.com/Tobi-De/htmx_extensions/issues/3) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
+5. ✔️ Closed issue [#2](https://github.com/Tobi-De/htmx_extensions/issues/2) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
