@@ -69,15 +69,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 24th, 2023, 4:19:05 AM
+Last Updated: Saturday, November 25th, 2023, 4:18:52 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#10](https://github.com/Tobi-De/sse_relay_server/issues/10) in [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
-3. ✔️ Closed issue [#3](https://github.com/Tobi-De/htmx_extensions/issues/3) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
-4. ❗️ Opened issue [#3](https://github.com/Tobi-De/htmx_extensions/issues/3) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
-5. ✔️ Closed issue [#2](https://github.com/Tobi-De/htmx_extensions/issues/2) in [Tobi-De/htmx_extensions](https://github.com/Tobi-De/htmx_extensions)<br>
+1. ✌️ Released [v1.0.2](https://github.com/Tobi-De/sse_relay_server/releases/tag/v1.0.2) in [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
+2. ⬆️ Pushed 2 commit(s) to [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
+3. ⬆️ Pushed 2 commit(s) to [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
