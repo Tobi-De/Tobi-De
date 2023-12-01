@@ -1,6 +1,6 @@
 [![Banner](https://github.com/Tobi-De/Tobi-De/blob/main/img/cover-color.png?raw=true)](https://oluwatobi.dev)
 
-## Hi, I'm Tobi! 👋🏾
+## Hello there, I'm [Tobi][website] 👋🏾
 
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)](https://oluwatobi.dev)
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:tobidegnon@proton.me)
@@ -12,7 +12,7 @@
 
 Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and [occasional blogger](https://oluwatobi.dev/blog/). I spend my days building full-stack applications and tools in Python, and some of the technologies I work with include [AWS](https://aws.amazon.com/fr/), [Django](https://github.com/django/django), [HTMX](https://github.com/bigskysoftware/htmx), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Docker](https://www.docker.com/), and occasionally [FastAPI](https://github.com/tiangolo/fastapi) (async Python has piqued my interest).
 
-- 🔭 Currently diving into Golang.
+- 🔭 Currently diving into Elixir.
 - 👯 Open to new work and collaboration opportunities.
 - ✍️ I express my thoughts through writing to refine my ideas.
 - 🧠 You'll often find me digging into my **second-brain** folder on my laptop—it's a handy resource!
@@ -29,7 +29,7 @@ Here are a few projects I'm currently working on that might be of interest to yo
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
 <!-- PROJECT-LIST:END -->
 
-To see my full list of noteworthy projects, visit: [My Projects](https://oluwatobi.dev/projects/). 
+To see my full list of noteworthy projects, visit: [My Projects][projects]. 
 
 My latest publications:
 
@@ -42,11 +42,15 @@ My latest publications:
 - [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30]
 <!-- BLOG-POST-LIST:END -->
 
-[read more...](https://oluwatobi.dev/blog)
+[read more...][blog]
 
-## Languages and tools
+## Current Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,golang,docker,nginx,vscode,js,git,github,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,linux,docker,nginx,vscode,idea,js,alpinejs,git,github,netlify,md,html,css,tailwind&theme=dark)](https://skillicons.dev)
+
+## Language and Tools to Learn
+
+<img alt="To Learn" src="https://skill-icons.tobidegnon.workers.dev/icons?i=elixir,phoenix,go,wasm,godot&theme=dark&perline=10">
 
 ---
 <details>
@@ -83,3 +87,8 @@ Last Updated: Friday, December 1st, 2023, 4:19:58 AM
 </details>
 
 > 😄 Need a stress-reliever? Find some laughs at [grugbrain.dev](https://grugbrain.dev/).
+
+
+[website]: https://oluwatobi.dev
+[blog]: https://oluwatobi.dev/blog
+[projects]: https://oluwatobi.dev/projects
