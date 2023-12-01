@@ -69,15 +69,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 30th, 2023, 4:19:22 AM
+Last Updated: Friday, December 1st, 2023, 4:19:58 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
-2. ⭐ Starred [encode/broadcaster](https://github.com/encode/broadcaster)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ✌️ Released [v1.0.11](https://github.com/Tobi-De/sse_relay_server/releases/tag/v1.0.11) in [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
+4. ⬆️ Pushed 2 commit(s) to [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
+5. ✌️ Released [v1.0.10](https://github.com/Tobi-De/sse_relay_server/releases/tag/v1.0.10) in [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
