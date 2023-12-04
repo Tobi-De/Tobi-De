@@ -1,8 +1,8 @@
-[![Banner](https://github.com/Tobi-De/Tobi-De/blob/main/img/cover-color.png?raw=true)](https://oluwatobi.dev)
+[![Banner](https://github.com/Tobi-De/Tobi-De/blob/main/img/cover-color.png?raw=true)][website]
 
 ## Hello there, I'm [Tobi][website] 👋🏾
 
-[![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)](https://oluwatobi.dev)
+[![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:tobidegnon@proton.me)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/tobidegnon)
 [![polywork](https://img.shields.io/badge/POLYWORK-12100E?logo=polywork&logoColor=red&color=282A36)](https://polywork.oluwatobi.dev)
@@ -10,7 +10,7 @@
 [![hashnode](https://img.shields.io/badge/HASHNODE-12100E?logo=hashnode&color=282A36)](https://tobidegnon.hashnode.dev/)
 [![spotify](https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36)](https://open.spotify.com/user/16nkjfi9016vplwwuohlk9t5n?si=32da9f7b741f4ef4)
 
-Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and [occasional blogger](https://oluwatobi.dev/blog/). I spend my days building full-stack applications and tools in Python, and some of the technologies I work with include [AWS](https://aws.amazon.com/fr/), [Django](https://github.com/django/django), [HTMX](https://github.com/bigskysoftware/htmx), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Docker](https://www.docker.com/), and occasionally [FastAPI](https://github.com/tiangolo/fastapi) (async Python has piqued my interest).
+Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and [occasional blogger][blog]. I spend my days building full-stack applications and tools in Python, and some of the technologies I work with include [AWS](https://aws.amazon.com/fr/), [Django](https://github.com/django/django), [HTMX](https://github.com/bigskysoftware/htmx), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Docker](https://www.docker.com/), and occasionally [FastAPI](https://github.com/tiangolo/fastapi) (async Python has piqued my interest).
 
 - 🔭 Currently diving into Elixir.
 - 👯 Open to new work and collaboration opportunities.
