@@ -73,15 +73,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 5th, 2023, 4:19:55 AM
+Last Updated: Wednesday, December 6th, 2023, 4:20:10 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/github-readme-streak-stats](https://github.com/Tobi-De/github-readme-streak-stats)<br>
-2. 🎉 Merged PR [#4](https://github.com/Tobi-De/github-readme-streak-stats/pull/4) in [Tobi-De/github-readme-streak-stats](https://github.com/Tobi-De/github-readme-streak-stats)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+4. 🎉 Merged PR [#31](https://github.com/Tobi-De/cookiecutter-fastapi/pull/31) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+5. ⬆️ Pushed 2 commit(s) to [Tobi-De/github-readme-streak-stats](https://github.com/Tobi-De/github-readme-streak-stats)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
