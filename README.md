@@ -50,7 +50,7 @@ My latest publications:
 
 ## Language and Tools to Learn
 
-<img alt="To Learn" src="https://skill-icons.tobidegnon.workers.dev/icons?i=elixir,phoenix,go,wasm,lit,caddy,godot&theme=dark&perline=10">
+<img alt="To Learn" src="https://skill-icons.tobidegnon.workers.dev/icons?i=elixir,phoenix,go,wasm,lit,godot&theme=dark&perline=10">
 
 ---
 <details>
