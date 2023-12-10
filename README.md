@@ -73,15 +73,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 9th, 2023, 4:18:58 AM
+Last Updated: Sunday, December 10th, 2023, 4:19:09 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/sse_relay_server](https://github.com/Tobi-De/sse_relay_server)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
+4. ⭐ Starred [transloadit/uppy](https://github.com/transloadit/uppy)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
