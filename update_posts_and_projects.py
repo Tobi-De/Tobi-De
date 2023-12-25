@@ -35,7 +35,7 @@ def get_latest_projects():
     data = urllib.request.urlopen(projects_url).read()
     projects = json.loads(data)
     projects = [project for project in projects if project["featured"]]
-    projects = sorted(projects, key=itemgetter("last_updated"), reverse=True)[:6]
+    projects = sorted(projects, key=itemgetter("last_updated"), reverse=True)[:10]
     projects_md = []
     for project in projects:
         description = (
