@@ -27,6 +27,7 @@ Here are a few projects I'm currently working on that might be of interest to yo
 - [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
 - [htmx_extensions](https://github.com/Tobi-De/htmx_extensions): A registry of htmx extensions, both official and third-party.
 - [leerming](https://github.com/Tobi-De/leerming): An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
+- [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
 <!-- PROJECT-LIST:END -->
 
 To see my full list of noteworthy projects, visit: [My Projects][projects]. 
