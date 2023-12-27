@@ -21,7 +21,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 Here are a few projects I'm currently working on that might be of interest to you:
 
 <!-- PROJECT-LIST:START -->
-- [falco](https://github.com/Tobi-De/falco): Enhance your Django developer experience: CLI and Guides for the Modern Developer.
+- [falco](https://github.com/Tobi-De/falco): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 - [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous): A cli tool to bootstrap your django projects and enhance your development experience. 
 - [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
