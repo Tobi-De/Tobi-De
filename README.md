@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 28th, 2023, 4:19:31 AM
+Last Updated: Friday, December 29th, 2023, 4:19:07 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ✌️ Released [Initial release](https://github.com/Tobi-De/falco/releases/tag/v0.1.0) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+5. 🎉 Merged PR [#29](https://github.com/Tobi-De/falco/pull/29) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
