@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 30th, 2023, 4:19:33 AM
+Last Updated: Sunday, December 31st, 2023, 4:19:08 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-4. ✔️ Closed issue [#26](https://github.com/Tobi-De/falco/issues/26) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-5. ⬆️ Pushed 4 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+1. ⭐ Starred [mu-editor/mu](https://github.com/mu-editor/mu)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
