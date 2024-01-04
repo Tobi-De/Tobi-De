@@ -75,14 +75,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 3rd, 2024, 4:19:23 AM
+Last Updated: Thursday, January 4th, 2024, 4:19:34 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lsaffre/sphinxfeed](https://github.com/lsaffre/sphinxfeed)<br>
-2. ⭐ Starred [sunpy/ablog](https://github.com/sunpy/ablog)<br>
-3. ⬆️ Pushed 3 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-4. ⭐ Starred [ewjoachim/sphinx-github-changelog](https://github.com/ewjoachim/sphinx-github-changelog)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
