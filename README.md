@@ -75,14 +75,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 8th, 2024, 4:20:38 AM
+Last Updated: Tuesday, January 9th, 2024, 4:19:50 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [twidi/mixt](https://github.com/twidi/mixt)<br>
-2. ⭐ Starred [twidi/mixt](https://github.com/twidi/mixt)<br>
-3. ⭐ Starred [gvanrossum/pyxl3](https://github.com/gvanrossum/pyxl3)<br>
-4. ⭐ Starred [dropbox/pyxl](https://github.com/dropbox/pyxl)<br>
+1. ⭐ Starred [gnachman/iTerm2](https://github.com/gnachman/iTerm2)<br>
+2. ⭐ Starred [frappe/hrms](https://github.com/frappe/hrms)<br>
+3. ⭐ Starred [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
