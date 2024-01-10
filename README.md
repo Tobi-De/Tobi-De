@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 9th, 2024, 4:19:50 AM
+Last Updated: Wednesday, January 10th, 2024, 4:20:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gnachman/iTerm2](https://github.com/gnachman/iTerm2)<br>
-2. ⭐ Starred [frappe/hrms](https://github.com/frappe/hrms)<br>
-3. ⭐ Starred [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [pyapp-org/pyapp](https://github.com/pyapp-org/pyapp)<br>
+2. ⭐ Starred [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)<br>
+3. ⭐ Starred [zappa/Zappa](https://github.com/zappa/Zappa)<br>
+4. ⭐ Starred [sobolevn/ship-it-boardgame](https://github.com/sobolevn/ship-it-boardgame)<br>
+5. ⬆️ Pushed 4 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
