@@ -74,15 +74,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 15th, 2024, 4:20:28 AM
+Last Updated: Tuesday, January 16th, 2024, 4:19:52 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-2. ⭐ Starred [snok/django-guid](https://github.com/snok/django-guid)<br>
-3. ❗️ Opened issue [#40](https://github.com/Tobi-De/falco/issues/40) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-4. ⬆️ Pushed 9 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. 🎉 Merged PR [#847](https://github.com/Tobi-De/qosic-sdk/pull/847) in [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. 💬 Commented on [#17](https://github.com/Tobi-De/falco/issues/17#issuecomment-1892640848) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+2. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+4. ✌️ Released [v0.2.8](https://github.com/Tobi-De/falco/releases/tag/v0.2.8) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+5. ✌️ Released [v0.2.7](https://github.com/Tobi-De/falco/releases/tag/v0.2.7) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
