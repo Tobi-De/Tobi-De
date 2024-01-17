@@ -74,15 +74,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 16th, 2024, 4:19:52 AM
+Last Updated: Wednesday, January 17th, 2024, 4:20:35 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#17](https://github.com/Tobi-De/falco/issues/17#issuecomment-1892640848) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-3. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-4. ✌️ Released [v0.2.8](https://github.com/Tobi-De/falco/releases/tag/v0.2.8) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-5. ✌️ Released [v0.2.7](https://github.com/Tobi-De/falco/releases/tag/v0.2.7) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+1. ⭐ Starred [spirodonfl/htmx-offline-mode](https://github.com/spirodonfl/htmx-offline-mode)<br>
+2. ✌️ Released [v0.2.9](https://github.com/Tobi-De/falco/releases/tag/v0.2.9) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+4. ✔️ Closed issue [#41](https://github.com/Tobi-De/falco/issues/41) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+5. 🎉 Merged PR [#42](https://github.com/Tobi-De/falco/pull/42) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
