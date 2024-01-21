@@ -74,15 +74,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 20th, 2024, 4:19:41 AM
+Last Updated: Sunday, January 21st, 2024, 4:19:09 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-3. 🎉 Merged PR [#42](https://github.com/Tobi-De/cookiecutter-fastapi/pull/42) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+1. ⭐ Starred [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+2. ✌️ Released [v0.3.2](https://github.com/Tobi-De/falco/releases/tag/v0.3.2) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
