@@ -74,14 +74,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 2nd, 2024, 4:19:03 AM
+Last Updated: Saturday, February 3rd, 2024, 4:17:29 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adamchainz/django-read-only](https://github.com/adamchainz/django-read-only)<br>
-2. ❗️ Opened issue [#58](https://github.com/Tobi-De/falco/issues/58) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+2. ⬆️ Pushed 0 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+3. ✌️ Released [v0.10.0](https://github.com/Tobi-De/falco/releases/tag/v0.10.0) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+4. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
