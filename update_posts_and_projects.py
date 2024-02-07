@@ -1,3 +1,5 @@
+from typing import TypedDict
+
 from pathlib import Path
 from operator import itemgetter
 import json
@@ -7,6 +9,19 @@ import feedparser
 
 readme = Path(__file__).parent / "README.md"
 projects_url = "https://raw.githubusercontent.com/Tobi-De/pw/main/data/projects.json"
+star_project = "falco"
+
+
+class Project(TypedDict):
+    last_updated: str
+    name: str
+    description: str
+    stack: str
+    web_url: str
+    github_url: str
+    featured: bool
+    active: bool
+    private: bool
 
 
 def _extract_date(post):
@@ -33,9 +48,13 @@ def get_project_description(gh_url):
 
 def get_latest_projects():
     data = urllib.request.urlopen(projects_url).read()
-    projects = json.loads(data)
+    projects: list[Project] = json.loads(data)
     projects = [project for project in projects if project["featured"]]
     projects = sorted(projects, key=itemgetter("last_updated"), reverse=True)[:10]
+    # put the star project at the top always
+    projects = sorted(
+        projects, key=lambda project: project["name"] == star_project, reverse=True
+    )
     projects_md = []
     for project in projects:
         description = (
@@ -69,4 +88,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # main()
+    print(get_latest_projects())
