@@ -74,15 +74,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 19th, 2024, 4:18:46 AM
+Last Updated: Tuesday, February 20th, 2024, 4:19:42 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-2. 🎉 Merged PR [#11](https://github.com/Tobi-De/falco_blueprint_basic/pull/11) in [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-3. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-4. 🎉 Merged PR [#53](https://github.com/Tobi-De/cookiecutter-fastapi/pull/53) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-5. ⭐ Starred [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal)<br>
+1. 💪 Opened PR [#67](https://github.com/Tobi-De/falco/pull/67) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+2. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. 💪 Opened PR [#66](https://github.com/Tobi-De/falco/pull/66) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ✔️ Closed issue [#50](https://github.com/Tobi-De/falco/issues/50) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
