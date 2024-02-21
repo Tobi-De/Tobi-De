@@ -74,15 +74,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 20th, 2024, 4:19:42 AM
+Last Updated: Wednesday, February 21st, 2024, 4:18:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#67](https://github.com/Tobi-De/falco/pull/67) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-3. 💪 Opened PR [#66](https://github.com/Tobi-De/falco/pull/66) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ✔️ Closed issue [#50](https://github.com/Tobi-De/falco/issues/50) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+1. ⬆️ Pushed 6 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 6 commit(s) to [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
+4. 🎉 Merged PR [#23](https://github.com/Tobi-De/github-readme-stats/pull/23) in [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
+5. ⭐ Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
