@@ -60,8 +60,9 @@ My latest publications:
 <br/>
 <p align="left">
   <a href="https://oluwatobi.dev/">
-  <img width="49.5%" src="http://stats.oluwatobi.dev/api/?username=Tobi-De&show_icons=true&hide_border=true&theme=dracula" />
-    <img width="49.5%" src="http://streak.oluwatobi.dev/?user=Tobi-De&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://stats.oluwatobi.dev/api/?username=Tobi-De&show_icons=true&hide_border=true&theme=dracula" />
+    <img width="49.5%" src="https://streak.oluwatobi.dev/?user=Tobi-De&theme=dracula&hide_border=true" />
+<!--     <img width="49.5%" src="https://streak.oluwatobi.dev/?user=Tobi-De&theme=dracula&hide_border=true&mode=weekly" /> -->
   </a>
 </p>
 <br>
