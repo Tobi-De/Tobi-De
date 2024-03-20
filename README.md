@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 19th, 2024, 4:18:57 AM
+Last Updated: Wednesday, March 20th, 2024, 4:20:07 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#80](https://github.com/Tobi-De/falco/issues/80) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-3. ✌️ Released [v0.21.0](https://github.com/Tobi-De/falco/releases/tag/v0.21.0) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-4. 💬 Commented on [#78](https://github.com/Tobi-De/falco/issues/78#issuecomment-2004451552) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-5. ✔️ Closed issue [#78](https://github.com/Tobi-De/falco/issues/78) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+2. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. ⭐ Starred [ynqa/jnv](https://github.com/ynqa/jnv)<br>
+4. ✌️ Released [v0.22.1](https://github.com/Tobi-De/falco/releases/tag/v0.22.1) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+5. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
