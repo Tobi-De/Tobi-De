@@ -47,11 +47,11 @@ My latest publications:
 
 ## Current Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,linux,docker,nginx,vscode,idea,js,alpinejs,git,github,netlify,md,html,css,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,fastapi,aws,redis,linux,docker,nginx,vscode,idea,js,alpinejs,git,github,netlify,md,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
 ## Language and Tools to Learn
 
-<img alt="To Learn" src="https://skill-icons.tobidegnon.workers.dev/icons?i=elixir,phoenix,go,wasm,lit,godot&theme=dark&perline=10">
+<img alt="To Learn" src="https://skill-icons.tobidegnon.workers.dev/icons?i=elixir,phoenix,lua,go,wasm,lit,godot&theme=dark&perline=10">
 
 ---
 <details>
