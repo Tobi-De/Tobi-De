@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 26th, 2024, 4:18:17 AM
+Last Updated: Wednesday, March 27th, 2024, 4:20:08 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JacobCoffee/litestar-workflows](https://github.com/JacobCoffee/litestar-workflows)<br>
-2. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
-3. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-4. 🎉 Merged PR [#67](https://github.com/Tobi-De/cookiecutter-fastapi/pull/67) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-5. ⭐ Starred [dgilland/shelmet](https://github.com/dgilland/shelmet)<br>
+1. ⬆️ Pushed 2 commit(s) to [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
+2. 🎉 Merged PR [#28](https://github.com/Tobi-De/github-readme-stats/pull/28) in [Tobi-De/github-readme-stats](https://github.com/Tobi-De/github-readme-stats)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/reminders](https://github.com/Tobi-De/reminders)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/reminders](https://github.com/Tobi-De/reminders)<br>
+5. ⭐ Starred [JacobCoffee/litestar-workflows](https://github.com/JacobCoffee/litestar-workflows)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
