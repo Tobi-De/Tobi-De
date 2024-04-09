@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 8th, 2024, 4:19:14 AM
+Last Updated: Tuesday, April 9th, 2024, 4:20:01 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-2. 🎉 Merged PR [#32](https://github.com/Tobi-De/falco_blueprint_basic/pull/32) in [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-5. 🎉 Merged PR [#70](https://github.com/Tobi-De/cookiecutter-fastapi/pull/70) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+5. 🎉 Merged PR [#32](https://github.com/Tobi-De/falco_blueprint_basic/pull/32) in [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
