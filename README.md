@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 11th, 2024, 4:18:28 AM
+Last Updated: Friday, April 12th, 2024, 4:20:07 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Tobi-De/leerming-lite](https://github.com/Tobi-De/leerming-lite)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/leerming-lite](https://github.com/Tobi-De/leerming-lite)<br>
-3. ❗️ Opened issue [#5](https://github.com/Tobi-De/Tobi-De/issues/5) in [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
-4. ✔️ Closed issue [#33](https://github.com/Tobi-De/falco_blueprint_basic/issues/33) in [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-5. 💬 Commented on [#29](https://github.com/Tobi-De/falco_blueprint_basic/pull/29#issuecomment-2047814402) in [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 3 commit(s) to [Tobi-De/leerming-lite](https://github.com/Tobi-De/leerming-lite)<br>
+4. ⭐ Starred [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)<br>
+5. ⭐ Starred [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
