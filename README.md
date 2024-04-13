@@ -75,15 +75,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 12th, 2024, 4:20:07 AM
+Last Updated: Saturday, April 13th, 2024, 4:17:12 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 3 commit(s) to [Tobi-De/leerming-lite](https://github.com/Tobi-De/leerming-lite)<br>
-4. ⭐ Starred [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)<br>
-5. ⭐ Starred [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges)<br>
+3. ⭐ Starred [petter/htmx-snake](https://github.com/petter/htmx-snake)<br>
+4. ⭐ Starred [sunainapai/makesite](https://github.com/sunainapai/makesite)<br>
+5. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
