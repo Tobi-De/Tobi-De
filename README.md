@@ -75,14 +75,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 13th, 2024, 4:17:12 AM
+Last Updated: Sunday, April 14th, 2024, 4:41:12 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⭐ Starred [petter/htmx-snake](https://github.com/petter/htmx-snake)<br>
-4. ⭐ Starred [sunainapai/makesite](https://github.com/sunainapai/makesite)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⭐ Starred [willmcgugan/declare](https://github.com/willmcgugan/declare)<br>
 5. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
  <!--RECENT_ACTIVITY:end-->
 
