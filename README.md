@@ -75,12 +75,12 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 21st, 2024, 4:19:34 AM
+Last Updated: Wednesday, May 22nd, 2024, 4:20:53 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-2. 🎉 Merged PR [#89](https://github.com/Tobi-De/cookiecutter-fastapi/pull/89) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
