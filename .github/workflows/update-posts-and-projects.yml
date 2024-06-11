@@ -36,7 +36,6 @@ jobs:
 
       - name: Commit and push if README changed
         run: |-
-          git diff
           git config --global user.email "tobidegnon@proton.me"
           git config --global user.name "Tobi DEGNON"
           git diff --quiet || (git add README.md && git commit -m "Updated README with blog posts")
