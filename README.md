@@ -76,15 +76,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 11th, 2024, 2:30:16 PM
+Last Updated: Wednesday, June 12th, 2024, 4:20:47 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [piku/piku](https://github.com/piku/piku)<br>
-2. ⬆️ Pushed 5 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-3. ⬆️ Pushed 2 commit(s) to [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
-5. ⭐ Starred [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
