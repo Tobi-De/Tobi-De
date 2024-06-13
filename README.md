@@ -22,6 +22,7 @@ Here are a few projects I'm currently working on that might be of interest to yo
 
 <!-- PROJECT-LIST:START -->
 - [falco](https://github.com/Tobi-De/falco): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli): Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 - [litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload): Automatic browser reload plugin for Litestar, designed for development use.
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
