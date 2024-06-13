@@ -51,9 +51,9 @@ def get_latest_projects():
     projects: list[Project] = json.loads(data)
     projects = [project for project in projects if project["featured"]]
     projects = sorted(projects, key=itemgetter("last_updated"), reverse=True)[:10]
-    # put the star project at the top always
+    # sort by priority
     projects = sorted(
-        projects, key=lambda project: project["name"] == star_project, reverse=True
+        projects, key=lambda project: project.get("priority", 0), reverse=True
     )
     projects_md = []
     for project in projects:
