@@ -22,10 +22,10 @@ Here are a few projects I'm currently working on that might be of interest to yo
 
 <!-- PROJECT-LIST:START -->
 - [falco](https://github.com/Tobi-De/falco): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
-- [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
-- [litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli): Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload): Automatic browser reload plugin for Litestar, designed for development use.
+- [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
+- [litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli): Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [leerming](https://github.com/Tobi-De/leerming): An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 - [sse-relay-server](https://github.com/Tobi-De/sse_relay_server): An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.
 - [htmx_extensions](https://github.com/Tobi-De/htmx_extensions): A registry of htmx extensions, both official and third-party.
