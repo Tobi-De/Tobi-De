@@ -78,13 +78,13 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 24th, 2024, 4:20:49 AM
+Last Updated: Tuesday, June 25th, 2024, 4:20:10 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [christopher-ramirez/secretary](https://github.com/christopher-ramirez/secretary)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+3. ⬆️ Pushed 5 commit(s) to [Tobi-De/python-odt-template](https://github.com/Tobi-De/python-odt-template)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
