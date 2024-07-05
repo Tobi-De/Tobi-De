@@ -78,14 +78,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 4th, 2024, 4:20:19 AM
+Last Updated: Friday, July 5th, 2024, 4:22:42 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#19](https://github.com/justin-yan/pybin/pull/19) in [justin-yan/pybin](https://github.com/justin-yan/pybin)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
-3. ⬆️ Pushed 3 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
-4. ❗️ Opened issue [#18](https://github.com/justin-yan/pybin/issues/18) in [justin-yan/pybin](https://github.com/justin-yan/pybin)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
