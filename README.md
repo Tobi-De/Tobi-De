@@ -78,15 +78,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 14th, 2024, 4:23:32 AM
+Last Updated: Monday, July 15th, 2024, 4:23:45 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Transfa/sendhooks-engine](https://github.com/Transfa/sendhooks-engine)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco_blueprint_basic_pico](https://github.com/Tobi-De/falco_blueprint_basic_pico)<br>
+2. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco_blueprint_basic_bootstrap](https://github.com/Tobi-De/falco_blueprint_basic_bootstrap)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+5. ⬆️ Pushed 4 commit(s) to [Tobi-De/falco_blueprint_basic_pico](https://github.com/Tobi-De/falco_blueprint_basic_pico)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
