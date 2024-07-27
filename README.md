@@ -78,15 +78,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 26th, 2024, 4:21:39 AM
+Last Updated: Saturday, July 27th, 2024, 4:21:15 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-2. 🎉 Merged PR [#70](https://github.com/Tobi-De/falco_blueprint_basic/pull/70) in [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-3. 💪 Opened PR [#70](https://github.com/Tobi-De/falco_blueprint_basic/pull/70) in [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-4. ⬆️ Pushed 2 commit(s) to [Tobi-De/joseph](https://github.com/Tobi-De/joseph)<br>
-5. ⬆️ Pushed 2 commit(s) to [Tobi-De/joseph](https://github.com/Tobi-De/joseph)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic_bootstrap](https://github.com/Tobi-De/falco_blueprint_basic_bootstrap)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic_bootstrap](https://github.com/Tobi-De/falco_blueprint_basic_bootstrap)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
