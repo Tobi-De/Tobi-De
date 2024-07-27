@@ -42,8 +42,8 @@ My latest publications:
 - [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [2023-09-16]
 - [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [2023-02-27]
 - [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [2022-11-05]
-- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30]
 - [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [2022-10-30]
+- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30]
 <!-- BLOG-POST-LIST:END -->
 
 [read more...][blog]
