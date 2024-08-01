@@ -78,15 +78,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 31st, 2024, 4:17:17 AM
+Last Updated: Thursday, August 1st, 2024, 4:21:32 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+1. ⬆️ Pushed 3 commit(s) to [Tobi-De/falco-ui](https://github.com/Tobi-De/falco-ui)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⭐ Starred [orgrim/pg_back](https://github.com/orgrim/pg_back)<br>
-5. ⬆️ Pushed 4 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
+4. ⬆️ Pushed 3 commit(s) to [Tobi-De/falco_blueprint_basic_pico](https://github.com/Tobi-De/falco_blueprint_basic_pico)<br>
+5. ⬆️ Pushed 3 commit(s) to [Tobi-De/falco_blueprint_basic_bootstrap](https://github.com/Tobi-De/falco_blueprint_basic_bootstrap)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
