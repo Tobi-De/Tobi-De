@@ -78,15 +78,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 4th, 2024, 4:23:05 AM
+Last Updated: Monday, August 5th, 2024, 4:21:51 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [koaning/fh-altair](https://github.com/koaning/fh-altair)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/falco_blueprint_basic](https://github.com/Tobi-De/falco_blueprint_basic)<br>
-5. ✌️ Released [v0.23.0](https://github.com/Tobi-De/falco/releases/tag/v0.23.0) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. ❗️ Opened issue [#95](https://github.com/Tobi-De/falco/issues/95) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+4. ❗️ Opened issue [#94](https://github.com/Tobi-De/falco/issues/94) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+5. ❗️ Opened issue [#93](https://github.com/Tobi-De/falco/issues/93) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
