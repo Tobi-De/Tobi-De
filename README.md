@@ -78,15 +78,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 5th, 2024, 4:21:51 AM
+Last Updated: Tuesday, August 6th, 2024, 4:22:38 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ❗️ Opened issue [#95](https://github.com/Tobi-De/falco/issues/95) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-4. ❗️ Opened issue [#94](https://github.com/Tobi-De/falco/issues/94) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
-5. ❗️ Opened issue [#93](https://github.com/Tobi-De/falco/issues/93) in [Tobi-De/falco](https://github.com/Tobi-De/falco)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
