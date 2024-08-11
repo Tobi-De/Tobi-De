@@ -22,8 +22,8 @@ Here are a few projects I'm currently working on that might be of interest to yo
 
 <!-- PROJECT-LIST:START -->
 - [falco](https://github.com/Tobi-De/falco): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
-- [htmx_extensions](https://github.com/Tobi-De/htmx_extensions): A registry of htmx extensions, both official and third-party.
 - [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
+- [htmx_extensions](https://github.com/Tobi-De/htmx_extensions): A registry of htmx extensions, both official and third-party.
 - [python-odt-template](https://github.com/Tobi-De/python-odt-template): Render ODT files using Jinja2 or the Django templates Language, with support for converting documents to PDF via the LibreOffice CLI.
 - [litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload): Automatic browser reload plugin for Litestar, designed for development use.
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
@@ -42,8 +42,8 @@ My latest publications:
 - [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [2023-09-16]
 - [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [2023-02-27]
 - [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [2022-11-05]
-- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30]
 - [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [2022-10-30]
+- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30]
 <!-- BLOG-POST-LIST:END -->
 
 [read more...][blog]
