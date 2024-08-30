@@ -1,12 +1,11 @@
 import argparse
 import json
 import os
-import re
 import urllib.request
 from pathlib import Path
 from typing import TypedDict
 
-project_file_path = Path("data/projects.json")
+project_file_path = Path("site/data/projects.json")
 
 
 def get_github_token():

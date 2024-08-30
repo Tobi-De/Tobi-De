@@ -11,3 +11,6 @@ _default:
 @record:
     uv run coltrane record --output docs --force
 
+
+@add-project:
+    uv run python scripts/projects.py
