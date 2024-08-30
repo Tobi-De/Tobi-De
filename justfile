@@ -9,7 +9,7 @@ _default:
     uv run tailwindcss -i site/static/css/input.css -o site/static/css/output.css --watch
 
 @record:
-    uv run coltrane record --output docs --force
+    uv run coltrane record --output ../site-output --force
 
 
 @add-project:
