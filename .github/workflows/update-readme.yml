@@ -1,17 +1,47 @@
 name: Update README
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 4 */1 * *' 
+    - cron: "0 4 */1 * *" # Run every day at 4:00 UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  recent-activity:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
-    name: Update Profile README
 
     steps:
       - uses: actions/checkout@v2.3.4
       - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+
+      - name: Set up uv
+        run: curl -LsSf https://astral.sh/uv/0.4.0/install.sh | sh
+
+      - name: Update README
+        run: |-
+          uv run scripts/update_readme.py
+          cat README.md
+
+      - name: Commit and push if README changed
+        run: |-
+          git config --global user.email "tobidegnon@proton.me"
+          git config --global user.name "Tobi DEGNON"
+          git diff --quiet || (git add README.md && git commit -m "Updated README with blog posts")
+          git push
