@@ -7,7 +7,7 @@ import urllib.request
 
 import feedparser
 
-readme = Path(__file__).parent / "README.md"
+readme = Path(__file__).parent.parent / "README.md"
 projects_url = "https://raw.githubusercontent.com/Tobi-De/pw/main/data/projects.json"
 star_project = "falco"
 

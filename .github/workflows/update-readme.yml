@@ -20,6 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   update-readme-with-blog:
+    needs: recent-activity
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
