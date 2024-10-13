@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 12th, 2024, 4:15:59 AM
+Last Updated: Sunday, October 13th, 2024, 4:15:54 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⬆️ Pushed 3 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
+2. ⬆️ Pushed 5 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
+3. ⬆️ Pushed 13 commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
+4. ⬆️ Pushed 1 commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
+5. ⬆️ Pushed 3 commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
