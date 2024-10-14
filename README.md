@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 13th, 2024, 4:15:54 AM
+Last Updated: Monday, October 14th, 2024, 4:16:52 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
-2. ⬆️ Pushed 5 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
-3. ⬆️ Pushed 13 commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
-4. ⬆️ Pushed 1 commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
-5. ⬆️ Pushed 3 commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
+1. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+2. ✔️ Closed issue [#104](https://github.com/falcopackages/starter-template/issues/104) in [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+3. ❌ Closed PR [#87](https://github.com/falcopackages/starter-template/pull/87) in [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+4. ⬆️ Pushed 1 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+5. ⬆️ Pushed 1 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
