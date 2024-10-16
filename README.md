@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 15th, 2024, 4:16:54 AM
+Last Updated: Wednesday, October 16th, 2024, 4:16:58 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
-2. ⬆️ Pushed 1 commit(s) to [falcopackages/starter-template-bootstrap](https://github.com/falcopackages/starter-template-bootstrap)<br>
-3. ✔️ Closed issue [#10](https://github.com/falcopackages/falco-cli/issues/10) in [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
-4. ❗️ Opened issue [#4](https://github.com/falcopackages/falco/issues/4) in [falcopackages/falco](https://github.com/falcopackages/falco)<br>
-5. ✔️ Closed issue [#95](https://github.com/falcopackages/falco-cli/issues/95) in [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
+1. ❗️ Opened issue [#8229](https://github.com/astral-sh/uv/issues/8229) in [astral-sh/uv](https://github.com/astral-sh/uv)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
