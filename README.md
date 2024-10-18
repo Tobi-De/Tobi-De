@@ -23,8 +23,8 @@ Here are a few projects I'm currently working on that might be of interest to yo
 <!-- PROJECT-LIST:START -->
 - [falco](https://github.com/Tobi-De/falco): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
-- [litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli): Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [django-litestream](https://github.com/Tobi-De/django-litestream): Django integration with litestream, a standalone streaming replication tool for SQLite.
+- [litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli): Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
 - [htmx_extensions](https://github.com/Tobi-De/htmx_extensions): A registry of htmx extensions, both official and third-party.
 - [python-odt-template](https://github.com/Tobi-De/python-odt-template): Render ODT files using Jinja2 or the Django templates Language, with support for converting documents to PDF via the LibreOffice CLI.
 - [litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload): Automatic browser reload plugin for Litestar, designed for development use.
