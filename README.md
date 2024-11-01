@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 31st, 2024, 4:17:49 AM
+Last Updated: Friday, November 1st, 2024, 4:16:39 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [lucas-labs/kurv](https://github.com/lucas-labs/kurv)<br>
+2. ⭐ Starred [linkdd/procfusion](https://github.com/linkdd/procfusion)<br>
+3. ⭐ Starred [bmwant/hapless](https://github.com/bmwant/hapless)<br>
+4. ⭐ Starred [ClearcodeHQ/mirakuru](https://github.com/ClearcodeHQ/mirakuru)<br>
+5. ⬆️ Pushed 3 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
