@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 4th, 2024, 4:16:51 AM
+Last Updated: Tuesday, November 5th, 2024, 4:16:40 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
 2. ⬆️ Pushed 2 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-3. ✔️ Closed issue [#14](https://github.com/falcopackages/fujin/issues/14) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-4. ⬆️ Pushed 2 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-5. ✔️ Closed issue [#10](https://github.com/falcopackages/fujin/issues/10) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
