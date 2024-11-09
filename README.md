@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 8th, 2024, 4:16:16 AM
+Last Updated: Saturday, November 9th, 2024, 4:15:37 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⬆️ Pushed 3 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+2. ✔️ Closed issue [#16](https://github.com/falcopackages/fujin/issues/16) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+3. ❗️ Opened issue [#20](https://github.com/falcopackages/fujin/issues/20) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+4. ⭐ Starred [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)<br>
+5. ⬆️ Pushed 12 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
