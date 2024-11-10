@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 9th, 2024, 4:15:37 AM
+Last Updated: Sunday, November 10th, 2024, 4:15:28 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-2. ✔️ Closed issue [#16](https://github.com/falcopackages/fujin/issues/16) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-3. ❗️ Opened issue [#20](https://github.com/falcopackages/fujin/issues/20) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-4. ⭐ Starred [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)<br>
-5. ⬆️ Pushed 12 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown)<br>
+2. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)<br>
+3. ⬆️ Pushed 5 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+4. ❗️ Opened issue [#429](https://github.com/emmett-framework/granian/issues/429) in [emmett-framework/granian](https://github.com/emmett-framework/granian)<br>
+5. ❗️ Opened issue [#21](https://github.com/falcopackages/fujin/issues/21) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
