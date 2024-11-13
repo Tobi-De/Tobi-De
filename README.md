@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 12th, 2024, 4:16:18 AM
+Last Updated: Wednesday, November 13th, 2024, 4:16:36 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint)<br>
-2. ⭐ Starred [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch)<br>
-3. ⭐ Starred [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown)<br>
-4. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)<br>
-5. ⬆️ Pushed 5 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+1. ⬆️ Pushed 2 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+2. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+3. ⭐ Starred [janhq/jan](https://github.com/janhq/jan)<br>
+4. ⭐ Starred [jorisroovers/gitlint](https://github.com/jorisroovers/gitlint)<br>
+5. ⭐ Starred [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
