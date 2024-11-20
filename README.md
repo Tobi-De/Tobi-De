@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 19th, 2024, 4:17:23 AM
+Last Updated: Wednesday, November 20th, 2024, 4:17:35 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-2. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)<br>
-3. ⭐ Starred [gi0baro/rloop](https://github.com/gi0baro/rloop)<br>
+1. ⬆️ Pushed 2 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+2. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+3. ⬆️ Pushed 2 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
 4. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-5. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+5. ⬆️ Pushed 2 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
