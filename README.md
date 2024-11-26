@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 25th, 2024, 4:17:40 AM
+Last Updated: Tuesday, November 26th, 2024, 4:17:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2)<br>
-2. ⭐ Starred [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer)<br>
-3. ⭐ Starred [tonybaloney/perflint](https://github.com/tonybaloney/perflint)<br>
-4. ⭐ Starred [tonybaloney/anti-patterns](https://github.com/tonybaloney/anti-patterns)<br>
-5. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+1. ⭐ Starred [python-hyper/wsproto](https://github.com/python-hyper/wsproto)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+4. ⭐ Starred [twisted/twisted](https://github.com/twisted/twisted)<br>
+5. ⬆️ Pushed 1 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
