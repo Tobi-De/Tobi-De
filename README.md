@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 26th, 2024, 4:17:25 AM
+Last Updated: Wednesday, November 27th, 2024, 4:17:39 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [python-hyper/wsproto](https://github.com/python-hyper/wsproto)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+1. ⭐ Starred [ephes/podcast-transcript](https://github.com/ephes/podcast-transcript)<br>
+2. ⭐ Starred [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⭐ Starred [twisted/twisted](https://github.com/twisted/twisted)<br>
-5. ⬆️ Pushed 1 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
