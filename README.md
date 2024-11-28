@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 27th, 2024, 4:17:39 AM
+Last Updated: Thursday, November 28th, 2024, 4:17:42 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ephes/podcast-transcript](https://github.com/ephes/podcast-transcript)<br>
-2. ⭐ Starred [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)<br>
+1. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+4. ⭐ Starred [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail)<br>
+5. ❌ Closed PR [#3](https://github.com/hkdobrev/cleanmac/pull/3) in [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
