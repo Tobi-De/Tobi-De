@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 28th, 2024, 4:17:42 AM
+Last Updated: Friday, November 29th, 2024, 4:17:52 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)<br>
+1. ❗️ Opened issue [#33](https://github.com/falcopackages/fujin/issues/33) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
 2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
 3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⭐ Starred [DockYard/elixir-mail](https://github.com/DockYard/elixir-mail)<br>
-5. ❌ Closed PR [#3](https://github.com/hkdobrev/cleanmac/pull/3) in [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac)<br>
+4. ⭐ Starred [ronf/asyncssh](https://github.com/ronf/asyncssh)<br>
+5. ⭐ Starred [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
