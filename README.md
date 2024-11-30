@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 29th, 2024, 4:17:52 AM
+Last Updated: Saturday, November 30th, 2024, 4:17:09 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#33](https://github.com/falcopackages/fujin/issues/33) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
-4. ⭐ Starred [ronf/asyncssh](https://github.com/ronf/asyncssh)<br>
-5. ⭐ Starred [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh)<br>
+1. ⭐ Starred [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)<br>
+2. ⭐ Starred [petalframework/petal_components](https://github.com/petalframework/petal_components)<br>
+3. ❗️ Opened issue [#33](https://github.com/falcopackages/fujin/issues/33) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/qosic-sdk](https://github.com/Tobi-De/qosic-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
