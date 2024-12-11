@@ -8,7 +8,7 @@ import urllib.request
 import feedparser
 
 readme = Path(__file__).parent.parent / "README.md"
-projects_url = "https://raw.githubusercontent.com/Tobi-De/pw/main/data/projects.json"
+projects_url = "https://raw.githubusercontent.com/Tobi-De/pw/main/site/data/projects.json"
 star_project = "falco"
 
 
@@ -39,8 +39,8 @@ def get_latest_posts():
 
 
 def get_project_description(gh_url):
-    project_name = gh_url.split("/")[-1]
-    url = f"https://api.github.com/repos/Tobi-De/{project_name}"
+    project_name = gh_url.replace("https://github.com/", "")
+    url = f"https://api.github.com/repos/{project_name}"
     resp = urllib.request.urlopen(url)
     data = json.load(resp)
     return data.get("description")
