@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 16th, 2024, 4:18:07 AM
+Last Updated: Tuesday, December 17th, 2024, 4:18:04 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors)<br>
-2. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
-3. ⭐ Starred [eza-community/eza](https://github.com/eza-community/eza)<br>
-4. ⭐ Starred [jefftriplett/django-cli-no-admin](https://github.com/jefftriplett/django-cli-no-admin)<br>
-5. ⬆️ Pushed 1 commit(s) to [falcopackages/falco-template-repository](https://github.com/falcopackages/falco-template-repository)<br>
+1. ⬆️ Pushed 2 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+2. ⬆️ Pushed 1 commit(s) to [falcopackages/falco-ui](https://github.com/falcopackages/falco-ui)<br>
+3. ⭐ Starred [jam1garner/owo-colors](https://github.com/jam1garner/owo-colors)<br>
+4. ⭐ Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)<br>
+5. ⭐ Starred [eza-community/eza](https://github.com/eza-community/eza)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
