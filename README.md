@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 21st, 2024, 4:15:53 AM
+Last Updated: Sunday, December 22nd, 2024, 4:16:03 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-2. ⬆️ Pushed 1 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-3. ⬆️ Pushed 2 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-4. ⭐ Starred [hendrix/hendrix](https://github.com/hendrix/hendrix)<br>
-5. ⬆️ Pushed 2 commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
+1. ⬆️ Pushed 1 commit(s) to [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
+2. ⬆️ Pushed 1 commit(s) to [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
+3. ⬆️ Pushed 5 commit(s) to [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
+4. 🎉 Merged PR [#2](https://github.com/Tobi-De/litestar-browser-reload/pull/2) in [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
+5. ❌ Closed PR [#1](https://github.com/Tobi-De/litestar-browser-reload/pull/1) in [Tobi-De/litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
