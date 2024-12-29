@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 28th, 2024, 4:16:02 AM
+Last Updated: Sunday, December 29th, 2024, 4:16:10 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [python-hyper/h11](https://github.com/python-hyper/h11)<br>
-2. ⭐ Starred [python-hyper/h2](https://github.com/python-hyper/h2)<br>
-3. ⬆️ Pushed 1 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
-4. ⭐ Starred [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd)<br>
-5. ⭐ Starred [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv)<br>
+1. ⭐ Starred [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)<br>
+2. ⭐ Starred [python-hyper/h11](https://github.com/python-hyper/h11)<br>
+3. ⭐ Starred [python-hyper/h2](https://github.com/python-hyper/h2)<br>
+4. ⬆️ Pushed 1 commit(s) to [falcopackages/falco](https://github.com/falcopackages/falco)<br>
+5. ⭐ Starred [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
