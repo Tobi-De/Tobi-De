@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 6th, 2025, 4:17:08 AM
+Last Updated: Tuesday, January 7th, 2025, 4:16:03 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ThirVondukr/aioinject](https://github.com/ThirVondukr/aioinject)<br>
-2. ⭐ Starred [tailscale/setec](https://github.com/tailscale/setec)<br>
-3. ⭐ Starred [dbcli/litecli](https://github.com/dbcli/litecli)<br>
-4. ⬆️ Pushed 1 commit(s) to [falcopackages/.github](https://github.com/falcopackages/.github)<br>
-5. ⭐ Starred [maxpert/marmot](https://github.com/maxpert/marmot)<br>
+1. ❌ Closed PR [#14](https://github.com/Tobi-De/pybin/pull/14) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+2. ❌ Closed PR [#13](https://github.com/Tobi-De/pybin/pull/13) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+3. ❌ Closed PR [#12](https://github.com/Tobi-De/pybin/pull/12) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+4. ❌ Closed PR [#11](https://github.com/Tobi-De/pybin/pull/11) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+5. ⬆️ Pushed 2 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
