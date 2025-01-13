@@ -21,15 +21,15 @@ Here are a few projects I'm currently working on that might be of interest to yo
 
 <!-- PROJECT-LIST:START -->
 - [falco](https://github.com/falcopackages/falco-cli): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [falco](https://github.com/falcopackages/falco-cli): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 - [django-litestream](https://github.com/Tobi-De/django-litestream): Django integration with litestream, a standalone streaming replication tool for SQLite.
+- [django-litestream](https://github.com/Tobi-De/django-litestream): Django integration with litestream, a standalone streaming replication tool for SQLite.
+- [litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload): Automatic browser reload plugin for Litestar, designed for development use.
 - [litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload): Automatic browser reload plugin for Litestar, designed for development use.
 - [fujin](https://github.com/falcopackages/fujin): Get your project up and running in minutes on your vps.
+- [fujin](https://github.com/falcopackages/fujin): Get your project up and running in minutes on your vps.
 - [litestar-tailwind-cli](https://github.com/Tobi-De/litestar-tailwind-cli): Provides a CLI plugin for Litestar to use Tailwind CSS via the Tailwind CLI.
-- [htmx_extensions](https://github.com/Tobi-De/htmx_extensions): A registry of htmx extensions, both official and third-party.
-- [python-odt-template](https://github.com/Tobi-De/python-odt-template): Render ODT files using Jinja2 or the Django templates Language, with support for converting documents to PDF via the LibreOffice CLI.
-- [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
-- [leerming](https://github.com/Tobi-De/leerming): An implementation of the `Leitner box` that can generate flashcards using llms from documents, youtube videos and web page links.
 <!-- PROJECT-LIST:END -->
 
 To see my full list of noteworthy projects, visit: [My Projects][projects]. 
@@ -37,13 +37,14 @@ To see my full list of noteworthy projects, visit: [My Projects][projects].
 My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Skimming Through Documentation](https://oluwatobi.dev/blog/the_art_of_skimming_through_documentation) [2023-12-20]
-- [A comprehensive guide to  multi-timezone support in Django](https://oluwatobi.dev/blog/a-comprehensive-guide-to-multi-timezone-support-in-django) [2023-10-11]
-- [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [2023-09-16]
-- [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [2023-02-27]
-- [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [2022-11-05]
-- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [2022-10-30]
-- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [2022-10-30]
+- [Media Setup for CapRover NGINX and Django](https://oluwatobi.dev/blog/media_setup_for_caprover_nginx_and_django) [Sun, 12 Jan 2025 00:00:00 +0000]
+- [The Art of Skimming Through Documentation](https://oluwatobi.dev/blog/the_art_of_skimming_through_documentation) [Wed, 20 Dec 2023 00:00:00 +0000]
+- [A comprehensive guide to  multi-timezone support in Django](https://oluwatobi.dev/blog/a-comprehensive-guide-to-multi-timezone-support-in-django) [Wed, 11 Oct 2023 00:00:00 +0000]
+- [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [Sat, 16 Sep 2023 00:00:00 +0000]
+- [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [Mon, 27 Feb 2023 00:00:00 +0000]
+- [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [Sat, 05 Nov 2022 00:00:00 +0000]
+- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [Sun, 30 Oct 2022 00:00:00 +0000]
+- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [Sun, 30 Oct 2022 00:00:00 +0000]
 <!-- BLOG-POST-LIST:END -->
 
 [read more...][blog]
