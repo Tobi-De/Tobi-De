@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 16th, 2025, 4:15:46 AM
+Last Updated: Friday, January 17th, 2025, 4:16:49 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [litestar-org/sqlspec](https://github.com/litestar-org/sqlspec)<br>
-2. ⬆️ Pushed 1 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-3. ⬆️ Pushed 1 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-4. ⬆️ Pushed 1 commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-5. ⭐ Starred [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust)<br>
+1. ⭐ Starred [team-alembic/ash_authentication](https://github.com/team-alembic/ash_authentication)<br>
+2. ⭐ Starred [pyper-dev/pyper](https://github.com/pyper-dev/pyper)<br>
+3. ⭐ Starred [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview)<br>
+4. ⭐ Starred [dldevinc/jinja2-simple-tags](https://github.com/dldevinc/jinja2-simple-tags)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
