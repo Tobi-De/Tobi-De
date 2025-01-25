@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 24th, 2025, 4:16:18 AM
+Last Updated: Saturday, January 25th, 2025, 4:15:14 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
-2. ⭐ Starred [SalarHoushvand/penguin-ui-components](https://github.com/SalarHoushvand/penguin-ui-components)<br>
-3. ⭐ Starred [dymmond/edgy](https://github.com/dymmond/edgy)<br>
-4. ⭐ Starred [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api)<br>
-5. ⭐ Starred [Lazarus-org/dj-notification-api](https://github.com/Lazarus-org/dj-notification-api)<br>
+1. ⭐ Starred [hzzly/xyy-vue](https://github.com/hzzly/xyy-vue)<br>
+2. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+3. ⭐ Starred [SalarHoushvand/penguin-ui-components](https://github.com/SalarHoushvand/penguin-ui-components)<br>
+4. ⭐ Starred [dymmond/edgy](https://github.com/dymmond/edgy)<br>
+5. ⭐ Starred [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
