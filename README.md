@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 25th, 2025, 4:15:14 AM
+Last Updated: Sunday, January 26th, 2025, 4:15:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hzzly/xyy-vue](https://github.com/hzzly/xyy-vue)<br>
-2. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
-3. ⭐ Starred [SalarHoushvand/penguin-ui-components](https://github.com/SalarHoushvand/penguin-ui-components)<br>
-4. ⭐ Starred [dymmond/edgy](https://github.com/dymmond/edgy)<br>
-5. ⭐ Starred [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api)<br>
+1. ⭐ Starred [desko27/react-call](https://github.com/desko27/react-call)<br>
+2. ⭐ Starred [mindee/doctr](https://github.com/mindee/doctr)<br>
+3. ⭐ Starred [hzzly/xyy-vue](https://github.com/hzzly/xyy-vue)<br>
+4. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+5. ⭐ Starred [SalarHoushvand/penguin-ui-components](https://github.com/SalarHoushvand/penguin-ui-components)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
