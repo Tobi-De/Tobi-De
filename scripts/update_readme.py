@@ -26,7 +26,8 @@ class Project(TypedDict):
 
 def _extract_date(post):
     date_string = post["published"]
-    return date_string.split("T")[0]
+    d = date_string.split("T")[0]
+    return " ".join(d.split()[:4])
 
 
 def get_latest_posts():
