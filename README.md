@@ -37,14 +37,14 @@ To see my full list of noteworthy projects, visit: [My Projects][projects].
 My latest publications:
 
 <!-- BLOG-POST-LIST:START -->
-- [Media Setup for CapRover NGINX and Django](https://oluwatobi.dev/blog/media_setup_for_caprover_nginx_and_django) [Sun, 12 Jan 2025 00:00:00 +0000]
-- [The Art of Skimming Through Documentation](https://oluwatobi.dev/blog/the_art_of_skimming_through_documentation) [Wed, 20 Dec 2023 00:00:00 +0000]
-- [A comprehensive guide to  multi-timezone support in Django](https://oluwatobi.dev/blog/a-comprehensive-guide-to-multi-timezone-support-in-django) [Wed, 11 Oct 2023 00:00:00 +0000]
-- [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [Sat, 16 Sep 2023 00:00:00 +0000]
-- [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [Mon, 27 Feb 2023 00:00:00 +0000]
-- [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [Sat, 05 Nov 2022 00:00:00 +0000]
-- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [Sun, 30 Oct 2022 00:00:00 +0000]
-- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [Sun, 30 Oct 2022 00:00:00 +0000]
+- [Media Setup for CapRover NGINX and Django](https://oluwatobi.dev/blog/media_setup_for_caprover_nginx_and_django) [Sun, 12 Jan 2025]
+- [The Art of Skimming Through Documentation](https://oluwatobi.dev/blog/the_art_of_skimming_through_documentation) [Wed, 20 Dec 2023]
+- [A comprehensive guide to  multi-timezone support in Django](https://oluwatobi.dev/blog/a-comprehensive-guide-to-multi-timezone-support-in-django) [Wed, 11 Oct 2023]
+- [Exploring SSE and PostgreSQL for Real-time Communication in Django](https://oluwatobi.dev/blog/exploring_sse_and_postgresql_for_realtime_communication_in_django) [Sat, 16 Sep 2023]
+- [Fuzzy-Couscous - The CLI for a better django development experience](https://oluwatobi.dev/blog/fuzzy_couscous_the_cli_for_a_better_django_development_experience) [Mon, 27 Feb 2023]
+- [Maximizing Productivity: PyCharm and htmx Integration](https://oluwatobi.dev/blog/maximizing-productivity-pycharm-and-htmx-integration) [Sat, 05 Nov 2022]
+- [Easy database and migrations reset during development](https://oluwatobi.dev/blog/easy-database-and-migrations-reset-during-development) [Sun, 30 Oct 2022]
+- [Bootstraping a production-ready django project](https://oluwatobi.dev/blog/bootstraping-a-production-ready-django-project) [Sun, 30 Oct 2022]
 <!-- BLOG-POST-LIST:END -->
 
 [read more...][blog]
