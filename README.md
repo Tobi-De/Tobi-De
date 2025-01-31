@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 30th, 2025, 4:16:11 AM
+Last Updated: Friday, January 31st, 2025, 4:16:15 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
-2. ⭐ Starred [desko27/react-call](https://github.com/desko27/react-call)<br>
-3. ⭐ Starred [mindee/doctr](https://github.com/mindee/doctr)<br>
-4. ⭐ Starred [hzzly/xyy-vue](https://github.com/hzzly/xyy-vue)<br>
-5. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+1. ⭐ Starred [codegen-sh/codegen-sdk](https://github.com/codegen-sh/codegen-sdk)<br>
+2. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+3. 🎉 Merged PR [#147](https://github.com/Tobi-De/cookiecutter-fastapi/pull/147) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+4. ⬆️ Pushed 1 commit(s) to [Tobi-De/Tobi-De](https://github.com/Tobi-De/Tobi-De)<br>
+5. ⭐ Starred [desko27/react-call](https://github.com/desko27/react-call)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
