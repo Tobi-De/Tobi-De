@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 4th, 2025, 4:16:02 AM
+Last Updated: Wednesday, February 5th, 2025, 4:16:21 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trycua/lume](https://github.com/trycua/lume)<br>
-2. ⭐ Starred [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)<br>
-3. ⭐ Starred [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)<br>
-4. ⭐ Starred [codegen-sh/codegen-sdk](https://github.com/codegen-sh/codegen-sdk)<br>
-5. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+1. ⭐ Starred [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)<br>
+2. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
+3. ⭐ Starred [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)<br>
+4. ⭐ Starred [trycua/lume](https://github.com/trycua/lume)<br>
+5. ⭐ Starred [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
