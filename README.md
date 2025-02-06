@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 4:16:21 AM
+Last Updated: Thursday, February 6th, 2025, 4:16:10 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)<br>
-2. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
-3. ⭐ Starred [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)<br>
-4. ⭐ Starred [trycua/lume](https://github.com/trycua/lume)<br>
-5. ⭐ Starred [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar)<br>
+1. ⭐ Starred [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack)<br>
+2. ⭐ Starred [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)<br>
+3. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)<br>
+4. ⭐ Starred [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)<br>
+5. ⭐ Starred [trycua/lume](https://github.com/trycua/lume)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
