@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 18th, 2025, 4:16:42 AM
+Last Updated: Wednesday, February 19th, 2025, 4:16:58 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mitsuhiko/memfrob](https://github.com/mitsuhiko/memfrob)<br>
-2. ⭐ Starred [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter)<br>
-3. ⭐ Starred [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant)<br>
-4. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-5. 🎉 Merged PR [#151](https://github.com/Tobi-De/cookiecutter-fastapi/pull/151) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+1. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
+2. ⭐ Starred [mitsuhiko/memfrob](https://github.com/mitsuhiko/memfrob)<br>
+3. ⭐ Starred [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter)<br>
+4. ⭐ Starred [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant)<br>
+5. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
