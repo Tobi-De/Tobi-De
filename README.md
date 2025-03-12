@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 11th, 2025, 4:18:01 AM
+Last Updated: Wednesday, March 12th, 2025, 4:17:02 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#25](https://github.com/falcopackages/fujin/issues/25) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-2. ⬆️ Pushed 1 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-3. ⭐ Starred [Acrisel/sshpipe](https://github.com/Acrisel/sshpipe)<br>
-4. ⭐ Starred [tsaarni/ssh-subprocess](https://github.com/tsaarni/ssh-subprocess)<br>
-5. ⬆️ Pushed 10 commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+1. ⭐ Starred [gtsa/server-setup-linux](https://github.com/gtsa/server-setup-linux)<br>
+2. ❌ Closed PR [#19](https://github.com/Tobi-De/pybin/pull/19) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+3. ❌ Closed PR [#18](https://github.com/Tobi-De/pybin/pull/18) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+4. ❌ Closed PR [#17](https://github.com/Tobi-De/pybin/pull/17) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+5. ❌ Closed PR [#16](https://github.com/Tobi-De/pybin/pull/16) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
