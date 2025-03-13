@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 12th, 2025, 4:17:02 AM
+Last Updated: Thursday, March 13th, 2025, 4:17:45 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gtsa/server-setup-linux](https://github.com/gtsa/server-setup-linux)<br>
-2. ❌ Closed PR [#19](https://github.com/Tobi-De/pybin/pull/19) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
-3. ❌ Closed PR [#18](https://github.com/Tobi-De/pybin/pull/18) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
-4. ❌ Closed PR [#17](https://github.com/Tobi-De/pybin/pull/17) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
-5. ❌ Closed PR [#16](https://github.com/Tobi-De/pybin/pull/16) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+1. ⭐ Starred [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)<br>
+2. ⭐ Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)<br>
+3. ⭐ Starred [gtsa/server-setup-linux](https://github.com/gtsa/server-setup-linux)<br>
+4. ❌ Closed PR [#19](https://github.com/Tobi-De/pybin/pull/19) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+5. ❌ Closed PR [#18](https://github.com/Tobi-De/pybin/pull/18) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
