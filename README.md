@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 7th, 2025, 4:18:12 AM
+Last Updated: Tuesday, April 8th, 2025, 4:17:46 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 22 commit(s) to [Tobi-De/prefect](https://github.com/Tobi-De/prefect)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-3. 🎉 Merged PR [#160](https://github.com/Tobi-De/cookiecutter-fastapi/pull/160) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+1. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
+2. ⭐ Starred [github/github-mcp-server](https://github.com/github/github-mcp-server)<br>
+3. ⬆️ Pushed 22 commit(s) to [Tobi-De/prefect](https://github.com/Tobi-De/prefect)<br>
 4. ⬆️ Pushed 2 commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-5. 🎉 Merged PR [#159](https://github.com/Tobi-De/cookiecutter-fastapi/pull/159) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+5. 🎉 Merged PR [#160](https://github.com/Tobi-De/cookiecutter-fastapi/pull/160) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
