@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 4th, 2025, 4:18:47 AM
+Last Updated: Monday, May 5th, 2025, 4:19:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook)<br>
-2. ⭐ Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)<br>
-3. ✔️ Closed issue [#39](https://github.com/falcopackages/fujin/issues/39) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-4. ❗️ Opened issue [#39](https://github.com/falcopackages/fujin/issues/39) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-5. ⭐ Starred [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless)<br>
+1. ⭐ Starred [BersisSe/feather](https://github.com/BersisSe/feather)<br>
+2. ⭐ Starred [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook)<br>
+3. ⭐ Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)<br>
+4. ✔️ Closed issue [#39](https://github.com/falcopackages/fujin/issues/39) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+5. ❗️ Opened issue [#39](https://github.com/falcopackages/fujin/issues/39) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
