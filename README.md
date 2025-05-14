@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 13th, 2025, 4:19:11 AM
+Last Updated: Wednesday, May 14th, 2025, 4:19:16 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [koaning/psdoom](https://github.com/koaning/psdoom)<br>
-2. ⭐ Starred [astral-sh/ty](https://github.com/astral-sh/ty)<br>
-3. ⭐ Starred [BersisSe/feather](https://github.com/BersisSe/feather)<br>
-4. ⭐ Starred [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook)<br>
-5. ⭐ Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)<br>
+1. ⭐ Starred [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext)<br>
+2. ⭐ Starred [koaning/psdoom](https://github.com/koaning/psdoom)<br>
+3. ⭐ Starred [astral-sh/ty](https://github.com/astral-sh/ty)<br>
+4. ⭐ Starred [BersisSe/feather](https://github.com/BersisSe/feather)<br>
+5. ⭐ Starred [smattymatty/django_spellbook](https://github.com/smattymatty/django_spellbook)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
