@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 23rd, 2025, 4:18:59 AM
+Last Updated: Saturday, May 24th, 2025, 4:17:46 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [skift-org/vaev](https://github.com/skift-org/vaev)<br>
-2. ⭐ Starred [aimedey19/feexpay-python-sdk](https://github.com/aimedey19/feexpay-python-sdk)<br>
-3. ⭐ Starred [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)<br>
-4. ⭐ Starred [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext)<br>
-5. ⭐ Starred [koaning/psdoom](https://github.com/koaning/psdoom)<br>
+1. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+2. ⭐ Starred [skift-org/vaev](https://github.com/skift-org/vaev)<br>
+3. ⭐ Starred [aimedey19/feexpay-python-sdk](https://github.com/aimedey19/feexpay-python-sdk)<br>
+4. ⭐ Starred [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)<br>
+5. ⭐ Starred [twentyforty/cotton-vscode-ext](https://github.com/twentyforty/cotton-vscode-ext)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
