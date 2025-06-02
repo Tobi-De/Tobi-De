@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 1st, 2025, 4:31:39 AM
+Last Updated: Monday, June 2nd, 2025, 4:26:52 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hunvreus/basecoat](https://github.com/hunvreus/basecoat)<br>
-2. ⭐ Starred [aimedey19/django-ai-translate](https://github.com/aimedey19/django-ai-translate)<br>
-3. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
-4. ⭐ Starred [skift-org/vaev](https://github.com/skift-org/vaev)<br>
-5. ⭐ Starred [aimedey19/feexpay-python-sdk](https://github.com/aimedey19/feexpay-python-sdk)<br>
+1. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+2. ⭐ Starred [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker)<br>
+3. ⭐ Starred [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)<br>
+4. ⭐ Starred [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)<br>
+5. ⭐ Starred [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
