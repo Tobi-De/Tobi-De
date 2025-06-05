@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 4th, 2025, 4:22:52 AM
+Last Updated: Thursday, June 5th, 2025, 4:23:38 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
-2. ⭐ Starred [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker)<br>
-3. ⭐ Starred [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)<br>
-4. ⭐ Starred [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)<br>
-5. ⭐ Starred [etnperlong/firefly-iii-mcp](https://github.com/etnperlong/firefly-iii-mcp)<br>
+1. ⭐ Starred [schireson/databudgie](https://github.com/schireson/databudgie)<br>
+2. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+3. ⭐ Starred [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker)<br>
+4. ⭐ Starred [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)<br>
+5. ⭐ Starred [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
