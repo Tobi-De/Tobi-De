@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 6th, 2025, 4:21:48 AM
+Last Updated: Saturday, June 7th, 2025, 4:18:44 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [schireson/databudgie](https://github.com/schireson/databudgie)<br>
-2. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
-3. ⭐ Starred [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker)<br>
-4. ⭐ Starred [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)<br>
-5. ⭐ Starred [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)<br>
+1. ⭐ Starred [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)<br>
+2. ⭐ Starred [schireson/databudgie](https://github.com/schireson/databudgie)<br>
+3. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+4. ⭐ Starred [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker)<br>
+5. ⭐ Starred [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
