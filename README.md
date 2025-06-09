@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 8th, 2025, 4:26:48 AM
+Last Updated: Monday, June 9th, 2025, 4:27:44 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)<br>
-2. ⭐ Starred [schireson/databudgie](https://github.com/schireson/databudgie)<br>
-3. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
-4. ⭐ Starred [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker)<br>
-5. ⭐ Starred [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)<br>
+1. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
+2. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
+3. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
+4. ⭐ Starred [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)<br>
+5. ⭐ Starred [schireson/databudgie](https://github.com/schireson/databudgie)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
