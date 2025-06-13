@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 4:22:50 AM
+Last Updated: Friday, June 13th, 2025, 4:23:45 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
-2. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
+1. ⭐ Starred [dagger/container-use](https://github.com/dagger/container-use)<br>
+2. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
 3. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
-4. ⭐ Starred [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)<br>
-5. ⭐ Starred [schireson/databudgie](https://github.com/schireson/databudgie)<br>
+4. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
+5. ⭐ Starred [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
