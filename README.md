@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 13th, 2025, 4:23:45 AM
+Last Updated: Saturday, June 14th, 2025, 4:19:18 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dagger/container-use](https://github.com/dagger/container-use)<br>
-2. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
-3. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
+1. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
+2. ⭐ Starred [dagger/container-use](https://github.com/dagger/container-use)<br>
+3. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
 4. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
-5. ⭐ Starred [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)<br>
+5. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
