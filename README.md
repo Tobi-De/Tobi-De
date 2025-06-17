@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 16th, 2025, 4:28:31 AM
+Last Updated: Tuesday, June 17th, 2025, 4:24:34 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
-2. ⭐ Starred [dagger/container-use](https://github.com/dagger/container-use)<br>
-3. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
-4. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
-5. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)<br>
+1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
+2. ⭐ Starred [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit)<br>
+3. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
+4. ⭐ Starred [dagger/container-use](https://github.com/dagger/container-use)<br>
+5. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
