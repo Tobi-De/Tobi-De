@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 4:24:34 AM
+Last Updated: Wednesday, June 18th, 2025, 4:24:49 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
-2. ⭐ Starred [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit)<br>
-3. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
-4. ⭐ Starred [dagger/container-use](https://github.com/dagger/container-use)<br>
-5. ⭐ Starred [8090-inc/top-coder-challenge](https://github.com/8090-inc/top-coder-challenge)<br>
+1. ⭐ Starred [Textualize/textual-ganglion](https://github.com/Textualize/textual-ganglion)<br>
+2. ⭐ Starred [darrenburns/o4t](https://github.com/darrenburns/o4t)<br>
+3. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
+4. ⭐ Starred [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit)<br>
+5. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
