@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 19th, 2025, 4:24:10 AM
+Last Updated: Friday, June 20th, 2025, 4:23:01 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Textualize/textual-ganglion](https://github.com/Textualize/textual-ganglion)<br>
-2. ⭐ Starred [darrenburns/o4t](https://github.com/darrenburns/o4t)<br>
-3. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
-4. ⭐ Starred [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit)<br>
-5. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)<br>
+1. ⭐ Starred [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry)<br>
+2. ⭐ Starred [Textualize/textual-ganglion](https://github.com/Textualize/textual-ganglion)<br>
+3. ⭐ Starred [darrenburns/o4t](https://github.com/darrenburns/o4t)<br>
+4. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
+5. ⭐ Starred [0xkaz/claude-auto-commit](https://github.com/0xkaz/claude-auto-commit)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
