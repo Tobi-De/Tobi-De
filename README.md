@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 30th, 2025, 4:30:08 AM
+Last Updated: Tuesday, July 1st, 2025, 4:34:42 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)<br>
-2. ⭐ Starred [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter)<br>
-3. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
-4. ⭐ Starred [loopwerk/drf-action-serializers](https://github.com/loopwerk/drf-action-serializers)<br>
-5. ⭐ Starred [mitsuhiko/vibe-minisentry](https://github.com/mitsuhiko/vibe-minisentry)<br>
+1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+2. ⭐ Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)<br>
+3. ⭐ Starred [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter)<br>
+4. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
+5. ⭐ Starred [loopwerk/drf-action-serializers](https://github.com/loopwerk/drf-action-serializers)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
