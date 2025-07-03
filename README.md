@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 2nd, 2025, 4:26:05 AM
+Last Updated: Thursday, July 3rd, 2025, 4:28:41 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-2. ⭐ Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)<br>
-3. ⭐ Starred [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter)<br>
-4. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
-5. ⭐ Starred [loopwerk/drf-action-serializers](https://github.com/loopwerk/drf-action-serializers)<br>
+1. ⭐ Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)<br>
+2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+3. ⭐ Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)<br>
+4. ⭐ Starred [oliverandrich/django-project-starter](https://github.com/oliverandrich/django-project-starter)<br>
+5. ⭐ Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
