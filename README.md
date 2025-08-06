@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 5th, 2025, 4:43:22 AM
+Last Updated: Wednesday, August 6th, 2025, 4:40:41 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [loopwerk/django-generic-notifications](https://github.com/loopwerk/django-generic-notifications)<br>
-2. ❗️ Opened issue [#40](https://github.com/falcopackages/fujin/issues/40) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
-3. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)<br>
-4. ⭐ Starred [9001/copyparty](https://github.com/9001/copyparty)<br>
-5. ⭐ Starred [adamghill/dj-lite](https://github.com/adamghill/dj-lite)<br>
+1. ⭐ Starred [williamtroup/Calendar.js](https://github.com/williamtroup/Calendar.js)<br>
+2. ⭐ Starred [vkurko/calendar](https://github.com/vkurko/calendar)<br>
+3. ⭐ Starred [loopwerk/django-generic-notifications](https://github.com/loopwerk/django-generic-notifications)<br>
+4. ❗️ Opened issue [#40](https://github.com/falcopackages/fujin/issues/40) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+5. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
