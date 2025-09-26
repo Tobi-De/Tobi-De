@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 25th, 2025, 4:17:55 AM
+Last Updated: Friday, September 26th, 2025, 4:17:36 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-2. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-3. ⭐ Starred [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt)<br>
+1. ⭐ Starred [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground)<br>
+2. ⭐ Starred [joshuadavidthomas/djtagspecs](https://github.com/joshuadavidthomas/djtagspecs)<br>
+3. ⬆️ Pushed 2 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-5. ⬆️ Pushed 4 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
+5. ⭐ Starred [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
