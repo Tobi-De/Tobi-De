@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 27th, 2025, 4:17:29 AM
+Last Updated: Sunday, September 28th, 2025, 4:17:28 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tidewave-ai/tidewave_python](https://github.com/tidewave-ai/tidewave_python)<br>
-2. ⭐ Starred [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground)<br>
-3. ⭐ Starred [joshuadavidthomas/djtagspecs](https://github.com/joshuadavidthomas/djtagspecs)<br>
-4. ⬆️ Pushed 2 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
+1. ⭐ Starred [adamchainz/inline-snapshot-django](https://github.com/adamchainz/inline-snapshot-django)<br>
+2. ⭐ Starred [alex/what-happens-when](https://github.com/alex/what-happens-when)<br>
+3. ⭐ Starred [iterative/shtab](https://github.com/iterative/shtab)<br>
+4. ⭐ Starred [castrojo/bluefin-cosmic](https://github.com/castrojo/bluefin-cosmic)<br>
+5. ⭐ Starred [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
