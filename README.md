@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 2nd, 2025, 4:17:12 AM
+Last Updated: Friday, October 3rd, 2025, 4:17:29 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-2. ⬆️ Pushed 2 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-3. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
+1. ⭐ Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)<br>
+2. ⬆️ Pushed 3 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
+3. ⬆️ Pushed 2 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
 4. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-5. ⬆️ Pushed 4 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
+5. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
