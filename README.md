@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 3rd, 2025, 4:17:29 AM
+Last Updated: Saturday, October 4th, 2025, 4:17:07 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)<br>
-2. ⬆️ Pushed 3 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-3. ⬆️ Pushed 2 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-4. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
-5. ⬆️ Pushed 1 commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
+1. ⬆️ Pushed 2 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+2. 🎉 Merged PR [#66](https://github.com/Tobi-De/pybin/pull/66) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+3. ⬆️ Pushed 3 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+4. ⬆️ Pushed 4 commit(s) to [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
+5. 🎉 Merged PR [#65](https://github.com/Tobi-De/pybin/pull/65) in [Tobi-De/pybin](https://github.com/Tobi-De/pybin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
