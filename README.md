@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 15th, 2025, 4:18:23 AM
+Last Updated: Thursday, October 16th, 2025, 4:17:42 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [akaihola/darker](https://github.com/akaihola/darker)<br>
-2. ⭐ Starred [timonweb/Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere)<br>
-3. ⭐ Starred [pytauri/pytauri](https://github.com/pytauri/pytauri)<br>
-4. ⭐ Starred [mikeckennedy/aiusage](https://github.com/mikeckennedy/aiusage)<br>
-5. ⭐ Starred [facebook/dotslash](https://github.com/facebook/dotslash)<br>
+1. ⭐ Starred [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)<br>
+2. ⭐ Starred [adamchainz/django-http-compression](https://github.com/adamchainz/django-http-compression)<br>
+3. ⭐ Starred [akaihola/darker](https://github.com/akaihola/darker)<br>
+4. ⭐ Starred [timonweb/Django-manage.py-anywhere](https://github.com/timonweb/Django-manage.py-anywhere)<br>
+5. ⭐ Starred [pytauri/pytauri](https://github.com/pytauri/pytauri)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
