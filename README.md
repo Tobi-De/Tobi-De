@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 23rd, 2025, 4:18:13 AM
+Last Updated: Friday, October 24th, 2025, 4:19:01 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)<br>
-2. ⭐ Starred [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook)<br>
-3. ⭐ Starred [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)<br>
-4. ⭐ Starred [webmin/webmin](https://github.com/webmin/webmin)<br>
-5. ⭐ Starred [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)<br>
+1. ⭐ Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)<br>
+2. ⭐ Starred [gaetanlhf/EXPOSE](https://github.com/gaetanlhf/EXPOSE)<br>
+3. ⭐ Starred [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)<br>
+4. ⭐ Starred [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook)<br>
+5. ⭐ Starred [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
