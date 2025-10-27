@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 26th, 2025, 4:17:29 AM
+Last Updated: Monday, October 27th, 2025, 4:25:40 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Katakate/k7](https://github.com/Katakate/k7)<br>
-2. ⬆️ Pushed undefined commit(s) to [Tobi-De/Suwayomi-Server-docker](https://github.com/Tobi-De/Suwayomi-Server-docker)<br>
-3. 🔱 Forked [Tobi-De/Suwayomi-Server-docker](https://github.com/Tobi-De/Suwayomi-Server-docker) from [Tobi-De/Suwayomi-Server-docker](https://github.com/Tobi-De/Suwayomi-Server-docker)<br>
-4. ⭐ Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)<br>
-5. ⭐ Starred [gaetanlhf/EXPOSE](https://github.com/gaetanlhf/EXPOSE)<br>
+1. ⭐ Starred [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)<br>
+2. ⭐ Starred [Katakate/k7](https://github.com/Katakate/k7)<br>
+3. ⬆️ Pushed undefined commit(s) to [Tobi-De/Suwayomi-Server-docker](https://github.com/Tobi-De/Suwayomi-Server-docker)<br>
+4. 🔱 Forked [Tobi-De/Suwayomi-Server-docker](https://github.com/Tobi-De/Suwayomi-Server-docker) from [Tobi-De/Suwayomi-Server-docker](https://github.com/Tobi-De/Suwayomi-Server-docker)<br>
+5. ⭐ Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
