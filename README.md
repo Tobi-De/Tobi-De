@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 5th, 2025, 4:18:59 AM
+Last Updated: Thursday, November 6th, 2025, 4:22:01 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf)<br>
-2. ⬆️ Pushed undefined commit(s) to [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream)<br>
-3. ⬆️ Pushed undefined commit(s) to [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream)<br>
+1. ⭐ Starred [spylang/spy](https://github.com/spylang/spy)<br>
+2. ⭐ Starred [dr-rompecabezas/wagtail-lms](https://github.com/dr-rompecabezas/wagtail-lms)<br>
+3. ⭐ Starred [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf)<br>
 4. ⬆️ Pushed undefined commit(s) to [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream)<br>
-5. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+5. ⬆️ Pushed undefined commit(s) to [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
