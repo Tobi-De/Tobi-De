@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 11th, 2025, 4:20:33 AM
+Last Updated: Wednesday, November 12th, 2025, 4:19:47 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)<br>
-2. ⭐ Starred [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter)<br>
-3. ⭐ Starred [spylang/spy](https://github.com/spylang/spy)<br>
-4. ⭐ Starred [dr-rompecabezas/wagtail-lms](https://github.com/dr-rompecabezas/wagtail-lms)<br>
-5. ⭐ Starred [feliperalmeida/django-modern-csrf](https://github.com/feliperalmeida/django-modern-csrf)<br>
+1. ⭐ Starred [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc)<br>
+2. ⭐ Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)<br>
+3. ⭐ Starred [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter)<br>
+4. ⭐ Starred [spylang/spy](https://github.com/spylang/spy)<br>
+5. ⭐ Starred [dr-rompecabezas/wagtail-lms](https://github.com/dr-rompecabezas/wagtail-lms)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
