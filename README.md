@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 13th, 2025, 4:21:41 AM
+Last Updated: Friday, November 14th, 2025, 4:19:54 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc)<br>
-2. ⭐ Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)<br>
-3. ⭐ Starred [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter)<br>
-4. ⭐ Starred [spylang/spy](https://github.com/spylang/spy)<br>
-5. ⭐ Starred [dr-rompecabezas/wagtail-lms](https://github.com/dr-rompecabezas/wagtail-lms)<br>
+1. ⭐ Starred [bhch/django-jsonform](https://github.com/bhch/django-jsonform)<br>
+2. ⭐ Starred [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc)<br>
+3. ⭐ Starred [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)<br>
+4. ⭐ Starred [3YOURMIND/django-migration-linter](https://github.com/3YOURMIND/django-migration-linter)<br>
+5. ⭐ Starred [spylang/spy](https://github.com/spylang/spy)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
