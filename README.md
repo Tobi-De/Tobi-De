@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 20th, 2025, 4:18:45 AM
+Last Updated: Friday, November 21st, 2025, 4:19:20 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hettie-d/postgres_air](https://github.com/hettie-d/postgres_air)<br>
-2. ⭐ Starred [ayanrajpoot10/ghbin](https://github.com/ayanrajpoot10/ghbin)<br>
-3. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-4. ⭐ Starred [ambient-innovation/boa-restrictor](https://github.com/ambient-innovation/boa-restrictor)<br>
-5. ⭐ Starred [vintasoftware/django-ai-boost](https://github.com/vintasoftware/django-ai-boost)<br>
+1. ❗️ Opened issue [#107](https://github.com/falcopackages/starter-template/issues/107) in [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+2. ✔️ Closed issue [#40](https://github.com/falcopackages/fujin/issues/40) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+3. ⬆️ Pushed undefined commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+4. ⬆️ Pushed undefined commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+5. ❌ Closed PR [#41](undefined) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
