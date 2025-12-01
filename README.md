@@ -79,12 +79,12 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 30th, 2025, 4:30:52 AM
+Last Updated: Monday, December 1st, 2025, 4:45:15 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)<br>
-2. ⬆️ Pushed undefined commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+1. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
+2. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)<br>
 3. ⬆️ Pushed undefined commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
 4. ⬆️ Pushed undefined commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
 5. ⬆️ Pushed undefined commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
