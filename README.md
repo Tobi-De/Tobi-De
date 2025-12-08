@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 7th, 2025, 4:29:45 AM
+Last Updated: Monday, December 8th, 2025, 4:30:27 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#186](https://github.com/Tobi-De/cookiecutter-fastapi/issues/186) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+1. ✌️ Released [0.1.5](https://github.com/Tobi-De/cookiecutter-fastapi/releases/tag/0.1.5) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
 2. ⬆️ Pushed undefined commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-3. ✔️ Closed issue [#184](https://github.com/Tobi-De/cookiecutter-fastapi/issues/184) in [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-4. ⬆️ Pushed undefined commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-5. ⬆️ Pushed undefined commit(s) to [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+3. ⬆️ Pushed undefined commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+4. ✔️ Closed issue [#33](https://github.com/falcopackages/fujin/issues/33) in [falcopackages/fujin](https://github.com/falcopackages/fujin)<br>
+5. ⬆️ Pushed undefined commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
