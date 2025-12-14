@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 13th, 2025, 4:22:12 AM
+Last Updated: Sunday, December 14th, 2025, 4:33:22 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
-2. ⭐ Starred [canonical/microcloud](https://github.com/canonical/microcloud)<br>
-3. ⭐ Starred [megastep/makeself](https://github.com/megastep/makeself)<br>
-4. ⭐ Starred [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged)<br>
-5. ⭐ Starred [Kozea/wdb](https://github.com/Kozea/wdb)<br>
+1. ⭐ Starred [gi0baro/tonio](https://github.com/gi0baro/tonio)<br>
+2. ⭐ Starred [EmilStenstrom/justhtml](https://github.com/EmilStenstrom/justhtml)<br>
+3. ⬆️ Pushed undefined commit(s) to [Tobi-De/taku](https://github.com/Tobi-De/taku)<br>
+4. ⬆️ Pushed undefined commit(s) to [Tobi-De/cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi)<br>
+5. ⭐ Starred [canonical/microcloud](https://github.com/canonical/microcloud)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
