@@ -21,8 +21,8 @@ Here are a few projects I'm currently working on that might be of interest to yo
 
 <!-- PROJECT-LIST:START -->
 - [falco](https://github.com/falcopackages/falco-cli): Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
-- [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 - [fujin](https://github.com/falcopackages/fujin): Get your project up and running in minutes on your vps.
+- [cookiecutter-fastapi](https://github.com/Tobi-De/cookiecutter-fastapi): Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.
 - [django-litestream](https://github.com/Tobi-De/django-litestream): Django integration with litestream, a standalone streaming replication tool for SQLite.
 - [dj-shop-cart](https://github.com/tobi-de/dj-shop-cart): A simple and flexible cart manager for your django projects.
 - [litestar-browser-reload](https://github.com/Tobi-De/litestar-browser-reload): Automatic browser reload plugin for Litestar, designed for development use.
