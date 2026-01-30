@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 29th, 2026, 5:02:58 AM
+Last Updated: Friday, January 30th, 2026, 5:05:59 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#61](https://github.com/Tobi-De/fujin/issues/61) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-2. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)<br>
-3. ⭐ Starred [joaocarvalhoopen/Helix_editor_for_the_Odin_programming_Language](https://github.com/joaocarvalhoopen/Helix_editor_for_the_Odin_programming_Language)<br>
-4. ❌ Closed PR [#60](undefined) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-5. ❗️ Opened issue [#59](https://github.com/Tobi-De/fujin/issues/59) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ❗️ Opened issue [#62](https://github.com/Tobi-De/fujin/issues/62) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+2. ⭐ Starred [corazawaf/coraza-caddy](https://github.com/corazawaf/coraza-caddy)<br>
+3. ⭐ Starred [chaitin/SafeLine](https://github.com/chaitin/SafeLine)<br>
+4. ❗️ Opened issue [#61](https://github.com/Tobi-De/fujin/issues/61) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+5. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
