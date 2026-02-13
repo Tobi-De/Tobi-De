@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 12th, 2026, 5:21:55 AM
+Last Updated: Friday, February 13th, 2026, 5:18:40 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [webmaven/lodum](https://github.com/webmaven/lodum)<br>
-2. ⭐ Starred [odin-lang/examples](https://github.com/odin-lang/examples)<br>
-3. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-4. ⭐ Starred [RealOrangeOne/django-tasks-db](https://github.com/RealOrangeOne/django-tasks-db)<br>
-5. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+2. ⭐ Starred [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)<br>
+3. ⭐ Starred [knadh/oat](https://github.com/knadh/oat)<br>
+4. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+5. ⭐ Starred [webmaven/lodum](https://github.com/webmaven/lodum)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
