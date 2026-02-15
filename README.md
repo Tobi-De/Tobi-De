@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 14th, 2026, 5:06:36 AM
+Last Updated: Sunday, February 15th, 2026, 5:16:43 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-2. ⭐ Starred [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)<br>
-3. ⭐ Starred [knadh/oat](https://github.com/knadh/oat)<br>
-4. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-5. ⭐ Starred [webmaven/lodum](https://github.com/webmaven/lodum)<br>
+1. ⭐ Starred [karl-zylinski/odin-sokol-hot-reload-template](https://github.com/karl-zylinski/odin-sokol-hot-reload-template)<br>
+2. ⭐ Starred [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template)<br>
+3. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+4. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+5. ⭐ Starred [zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
