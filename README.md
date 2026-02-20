@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 19th, 2026, 5:19:11 AM
+Last Updated: Friday, February 20th, 2026, 5:13:48 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)<br>
-2. ⭐ Starred [karl-zylinski/odin-sokol-hot-reload-template](https://github.com/karl-zylinski/odin-sokol-hot-reload-template)<br>
-3. ⭐ Starred [karl-zylinski/odin-raylib-hot-reload-game-template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template)<br>
-4. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-5. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ⭐ Starred [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel)<br>
+2. ⭐ Starred [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt)<br>
+3. ⭐ Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)<br>
+4. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)<br>
+5. ⭐ Starred [karl-zylinski/odin-sokol-hot-reload-template](https://github.com/karl-zylinski/odin-sokol-hot-reload-template)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
