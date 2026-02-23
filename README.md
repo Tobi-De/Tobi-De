@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 22nd, 2026, 5:13:38 AM
+Last Updated: Monday, February 23rd, 2026, 5:23:03 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel)<br>
-2. ⭐ Starred [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt)<br>
-3. ⭐ Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)<br>
-4. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)<br>
-5. ⭐ Starred [karl-zylinski/odin-sokol-hot-reload-template](https://github.com/karl-zylinski/odin-sokol-hot-reload-template)<br>
+1. ⭐ Starred [Kludex/cassetter](https://github.com/Kludex/cassetter)<br>
+2. ⭐ Starred [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel)<br>
+3. ⭐ Starred [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt)<br>
+4. ⭐ Starred [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)<br>
+5. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
