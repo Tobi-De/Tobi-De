@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 24th, 2026, 5:19:12 AM
+Last Updated: Wednesday, February 25th, 2026, 5:20:50 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Tobi-De/resume](https://github.com/Tobi-De/resume)<br>
+1. ⭐ Starred [benoitc/hornbeam](https://github.com/benoitc/hornbeam)<br>
 2. ⬆️ Pushed undefined commit(s) to [Tobi-De/resume](https://github.com/Tobi-De/resume)<br>
-3. ⭐ Starred [Kludex/cassetter](https://github.com/Kludex/cassetter)<br>
-4. ⭐ Starred [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel)<br>
-5. ⭐ Starred [UnknownPlatypus/djangofmt](https://github.com/UnknownPlatypus/djangofmt)<br>
+3. ⬆️ Pushed undefined commit(s) to [Tobi-De/resume](https://github.com/Tobi-De/resume)<br>
+4. ⭐ Starred [Kludex/cassetter](https://github.com/Kludex/cassetter)<br>
+5. ⭐ Starred [simonw/go-to-wheel](https://github.com/simonw/go-to-wheel)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
