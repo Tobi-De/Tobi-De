@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 8th, 2026, 5:06:55 AM
+Last Updated: Monday, March 9th, 2026, 5:17:22 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin)<br>
-2. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-3. ⭐ Starred [Digicreon/muJS](https://github.com/Digicreon/muJS)<br>
-4. ⭐ Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br>
-5. ⭐ Starred [bearcove/ship](https://github.com/bearcove/ship)<br>
+1. ⭐ Starred [rust-mobile/ndk](https://github.com/rust-mobile/ndk)<br>
+2. ⭐ Starred [acidghost/argparse-usage](https://github.com/acidghost/argparse-usage)<br>
+3. ⭐ Starred [floooh/sokol-odin](https://github.com/floooh/sokol-odin)<br>
+4. ⭐ Starred [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin)<br>
+5. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
