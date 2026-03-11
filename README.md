@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 10th, 2026, 5:07:18 AM
+Last Updated: Wednesday, March 11th, 2026, 5:09:11 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rust-mobile/ndk](https://github.com/rust-mobile/ndk)<br>
-2. ⭐ Starred [acidghost/argparse-usage](https://github.com/acidghost/argparse-usage)<br>
-3. ⭐ Starred [floooh/sokol-odin](https://github.com/floooh/sokol-odin)<br>
-4. ⭐ Starred [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin)<br>
-5. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+1. ⭐ Starred [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel)<br>
+2. ⭐ Starred [rust-mobile/ndk](https://github.com/rust-mobile/ndk)<br>
+3. ⭐ Starred [acidghost/argparse-usage](https://github.com/acidghost/argparse-usage)<br>
+4. ⭐ Starred [floooh/sokol-odin](https://github.com/floooh/sokol-odin)<br>
+5. ⭐ Starred [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
