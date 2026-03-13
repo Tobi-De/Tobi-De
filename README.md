@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 11th, 2026, 5:09:11 AM
+Last Updated: Friday, March 13th, 2026, 5:11:01 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel)<br>
-2. ⭐ Starred [rust-mobile/ndk](https://github.com/rust-mobile/ndk)<br>
-3. ⭐ Starred [acidghost/argparse-usage](https://github.com/acidghost/argparse-usage)<br>
-4. ⭐ Starred [floooh/sokol-odin](https://github.com/floooh/sokol-odin)<br>
-5. ⭐ Starred [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin)<br>
+1. ⭐ Starred [bearcove/cbx](https://github.com/bearcove/cbx)<br>
+2. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
+3. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
+4. ⭐ Starred [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel)<br>
+5. ⭐ Starred [rust-mobile/ndk](https://github.com/rust-mobile/ndk)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
