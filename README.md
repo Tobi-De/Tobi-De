@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 13th, 2026, 5:11:01 AM
+Last Updated: Saturday, March 14th, 2026, 5:08:20 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bearcove/cbx](https://github.com/bearcove/cbx)<br>
-2. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
-3. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
-4. ⭐ Starred [wintermeyer/heinzel](https://github.com/wintermeyer/heinzel)<br>
-5. ⭐ Starred [rust-mobile/ndk](https://github.com/rust-mobile/ndk)<br>
+1. ⭐ Starred [remysucre/satellite](https://github.com/remysucre/satellite)<br>
+2. ⭐ Starred [di/satellite](https://github.com/di/satellite)<br>
+3. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)<br>
+4. ⭐ Starred [bearcove/cbx](https://github.com/bearcove/cbx)<br>
+5. ⭐ Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
