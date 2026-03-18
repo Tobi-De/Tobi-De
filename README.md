@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 17th, 2026, 5:19:12 AM
+Last Updated: Wednesday, March 18th, 2026, 5:22:54 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PDFium/PDFium](https://github.com/PDFium/PDFium)<br>
-2. ⭐ Starred [remysucre/satellite](https://github.com/remysucre/satellite)<br>
-3. ⭐ Starred [di/satellite](https://github.com/di/satellite)<br>
-4. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)<br>
-5. ⭐ Starred [bearcove/cbx](https://github.com/bearcove/cbx)<br>
+1. ⭐ Starred [shcherbak-ai/tethered](https://github.com/shcherbak-ai/tethered)<br>
+2. ⭐ Starred [PDFium/PDFium](https://github.com/PDFium/PDFium)<br>
+3. ⭐ Starred [remysucre/satellite](https://github.com/remysucre/satellite)<br>
+4. ⭐ Starred [di/satellite](https://github.com/di/satellite)<br>
+5. ⭐ Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
