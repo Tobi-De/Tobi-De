@@ -79,13 +79,13 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 23rd, 2026, 5:27:29 AM
+Last Updated: Tuesday, March 24th, 2026, 5:20:56 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VojtechPetru/django-live-translations](https://github.com/VojtechPetru/django-live-translations)<br>
-2. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-3. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ⭐ Starred [kujov/django-tw](https://github.com/kujov/django-tw)<br>
+2. ⭐ Starred [kepano/defuddle](https://github.com/kepano/defuddle)<br>
+3. ⭐ Starred [VojtechPetru/django-live-translations](https://github.com/VojtechPetru/django-live-translations)<br>
 4. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
 5. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
