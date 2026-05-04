@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 3rd, 2026, 6:23:34 AM
+Last Updated: Monday, May 4th, 2026, 6:35:09 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [foxnne/pixi](https://github.com/foxnne/pixi)<br>
-2. ⭐ Starred [pallets-eco/croniter](https://github.com/pallets-eco/croniter)<br>
-3. ⭐ Starred [jsheffie/django-schematic](https://github.com/jsheffie/django-schematic)<br>
-4. ⭐ Starred [agavra/tuicr](https://github.com/agavra/tuicr)<br>
-5. ⭐ Starred [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)<br>
+1. ⭐ Starred [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus)<br>
+2. ⭐ Starred [foxnne/pixi](https://github.com/foxnne/pixi)<br>
+3. ⭐ Starred [pallets-eco/croniter](https://github.com/pallets-eco/croniter)<br>
+4. ⭐ Starred [jsheffie/django-schematic](https://github.com/jsheffie/django-schematic)<br>
+5. ⭐ Starred [agavra/tuicr](https://github.com/agavra/tuicr)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
