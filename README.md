@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 16th, 2026, 6:18:40 AM
+Last Updated: Sunday, May 17th, 2026, 6:41:03 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pmbanugo/tina](https://github.com/pmbanugo/tina)<br>
-2. ⭐ Starred [saritasa-nest/django-import-export-extensions](https://github.com/saritasa-nest/django-import-export-extensions)<br>
-3. ⭐ Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)<br>
-4. ⭐ Starred [antirez/ds4](https://github.com/antirez/ds4)<br>
-5. ⭐ Starred [Tanaybaviskar/ghost-observer](https://github.com/Tanaybaviskar/ghost-observer)<br>
+1. ⭐ Starred [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select)<br>
+2. ⭐ Starred [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender)<br>
+3. ⭐ Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)<br>
+4. ⭐ Starred [pmbanugo/tina](https://github.com/pmbanugo/tina)<br>
+5. ⭐ Starred [saritasa-nest/django-import-export-extensions](https://github.com/saritasa-nest/django-import-export-extensions)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
