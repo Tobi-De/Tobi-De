@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 18th, 2026, 7:57:54 AM
+Last Updated: Tuesday, May 19th, 2026, 7:41:05 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select)<br>
-2. ⭐ Starred [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender)<br>
-3. ⭐ Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)<br>
-4. ⭐ Starred [pmbanugo/tina](https://github.com/pmbanugo/tina)<br>
-5. ⭐ Starred [saritasa-nest/django-import-export-extensions](https://github.com/saritasa-nest/django-import-export-extensions)<br>
+1. ⭐ Starred [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant)<br>
+2. ⭐ Starred [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select)<br>
+3. ⭐ Starred [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender)<br>
+4. ⭐ Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)<br>
+5. ⭐ Starred [pmbanugo/tina](https://github.com/pmbanugo/tina)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
