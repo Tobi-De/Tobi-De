@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 20th, 2026, 7:39:10 AM
+Last Updated: Thursday, May 21st, 2026, 7:44:27 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [prefix-dev/pixi](https://github.com/prefix-dev/pixi)<br>
-2. ⭐ Starred [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant)<br>
-3. ⭐ Starred [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select)<br>
-4. ⭐ Starred [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender)<br>
-5. ⭐ Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)<br>
+1. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
+2. ⭐ Starred [prefix-dev/pixi](https://github.com/prefix-dev/pixi)<br>
+3. ⭐ Starred [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant)<br>
+4. ⭐ Starred [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select)<br>
+5. ⭐ Starred [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
