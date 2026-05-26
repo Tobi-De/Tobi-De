@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 25th, 2026, 8:16:14 AM
+Last Updated: Tuesday, May 26th, 2026, 7:40:19 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
-2. ⭐ Starred [prefix-dev/pixi](https://github.com/prefix-dev/pixi)<br>
-3. ⭐ Starred [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant)<br>
-4. ⭐ Starred [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select)<br>
-5. ⭐ Starred [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender)<br>
+1. ⭐ Starred [benoitc/livery](https://github.com/benoitc/livery)<br>
+2. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
+3. ⭐ Starred [prefix-dev/pixi](https://github.com/prefix-dev/pixi)<br>
+4. ⭐ Starred [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant)<br>
+5. ⭐ Starred [reallygoodsoftware/better-select](https://github.com/reallygoodsoftware/better-select)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
