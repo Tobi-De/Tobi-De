@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 30th, 2026, 6:42:01 AM
+Last Updated: Sunday, May 31st, 2026, 7:41:03 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NikolayS/PgQue](https://github.com/NikolayS/PgQue)<br>
-2. ⭐ Starred [benoitc/livery](https://github.com/benoitc/livery)<br>
-3. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
-4. ⭐ Starred [prefix-dev/pixi](https://github.com/prefix-dev/pixi)<br>
-5. ⭐ Starred [adamghill/dj-lite-tenant](https://github.com/adamghill/dj-lite-tenant)<br>
+1. ⭐ Starred [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus)<br>
+2. ⭐ Starred [NikolayS/PgQue](https://github.com/NikolayS/PgQue)<br>
+3. ⭐ Starred [benoitc/livery](https://github.com/benoitc/livery)<br>
+4. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
+5. ⭐ Starred [prefix-dev/pixi](https://github.com/prefix-dev/pixi)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
