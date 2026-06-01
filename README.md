@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 31st, 2026, 7:41:03 AM
+Last Updated: Monday, June 1st, 2026, 9:21:00 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus)<br>
-2. ⭐ Starred [NikolayS/PgQue](https://github.com/NikolayS/PgQue)<br>
-3. ⭐ Starred [benoitc/livery](https://github.com/benoitc/livery)<br>
-4. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
-5. ⭐ Starred [prefix-dev/pixi](https://github.com/prefix-dev/pixi)<br>
+1. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
+2. ⭐ Starred [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus)<br>
+3. ⭐ Starred [NikolayS/PgQue](https://github.com/NikolayS/PgQue)<br>
+4. ⭐ Starred [benoitc/livery](https://github.com/benoitc/livery)<br>
+5. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
