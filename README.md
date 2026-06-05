@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 4th, 2026, 8:15:52 AM
+Last Updated: Friday, June 5th, 2026, 8:02:19 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
-2. ⭐ Starred [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus)<br>
-3. ⭐ Starred [NikolayS/PgQue](https://github.com/NikolayS/PgQue)<br>
-4. ⭐ Starred [benoitc/livery](https://github.com/benoitc/livery)<br>
-5. ⭐ Starred [alexandru/social-publish](https://github.com/alexandru/social-publish)<br>
+1. ❌ Closed PR [#68](undefined) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+2. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
+3. ⭐ Starred [dsecurity49/Intent-Bus](https://github.com/dsecurity49/Intent-Bus)<br>
+4. ⭐ Starred [NikolayS/PgQue](https://github.com/NikolayS/PgQue)<br>
+5. ⭐ Starred [benoitc/livery](https://github.com/benoitc/livery)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
