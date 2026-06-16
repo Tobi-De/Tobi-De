@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 15th, 2026, 9:58:31 AM
+Last Updated: Tuesday, June 16th, 2026, 9:21:33 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#71](https://github.com/Tobi-De/fujin/issues/71) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-2. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+1. ⬆️ Pushed undefined commit(s) to [Tobi-De/spotify-downloader](https://github.com/Tobi-De/spotify-downloader)<br>
+2. 🔱 Forked [Tobi-De/spotify-downloader](https://github.com/Tobi-De/spotify-downloader) from [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)<br>
 3. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
-4. ⬆️ Pushed undefined commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
-5. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+4. ⬆️ Pushed undefined commit(s) to [falcopackages/starter-template](https://github.com/falcopackages/starter-template)<br>
+5. ⬆️ Pushed undefined commit(s) to [falcopackages/falco-cli](https://github.com/falcopackages/falco-cli)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
