@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 21st, 2026, 6:24:08 AM
+Last Updated: Wednesday, July 22nd, 2026, 6:23:48 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stupside/castor](https://github.com/stupside/castor)<br>
-2. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)<br>
-3. ⭐ Starred [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom)<br>
-4. ⭐ Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)<br>
-5. ❗️ Opened issue [#75](https://github.com/Tobi-De/fujin/issues/75) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ⭐ Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br>
+2. ⭐ Starred [stupside/castor](https://github.com/stupside/castor)<br>
+3. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)<br>
+4. ⭐ Starred [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom)<br>
+5. ⭐ Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
