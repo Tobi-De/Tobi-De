@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 29th, 2026, 6:26:44 AM
+Last Updated: Thursday, July 30th, 2026, 6:22:40 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [odin-lang/odin-lang.org](https://github.com/odin-lang/odin-lang.org)<br>
-2. ⭐ Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br>
-3. ⭐ Starred [stupside/castor](https://github.com/stupside/castor)<br>
-4. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)<br>
-5. ⭐ Starred [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom)<br>
+1. ⭐ Starred [AllDotPy/Ryx](https://github.com/AllDotPy/Ryx)<br>
+2. ⭐ Starred [odin-lang/odin-lang.org](https://github.com/odin-lang/odin-lang.org)<br>
+3. ⭐ Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br>
+4. ⭐ Starred [stupside/castor](https://github.com/stupside/castor)<br>
+5. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
