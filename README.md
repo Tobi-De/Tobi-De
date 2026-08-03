@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 2nd, 2026, 6:28:28 AM
+Last Updated: Monday, August 3rd, 2026, 6:54:58 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nuxt/hackernews](https://github.com/nuxt/hackernews)<br>
-2. ⭐ Starred [AllDotPy/Ryx](https://github.com/AllDotPy/Ryx)<br>
-3. ⭐ Starred [odin-lang/odin-lang.org](https://github.com/odin-lang/odin-lang.org)<br>
-4. ⭐ Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br>
-5. ⭐ Starred [stupside/castor](https://github.com/stupside/castor)<br>
+1. ⭐ Starred [wsvincent/django-skills](https://github.com/wsvincent/django-skills)<br>
+2. ⭐ Starred [nuxt/hackernews](https://github.com/nuxt/hackernews)<br>
+3. ⭐ Starred [AllDotPy/Ryx](https://github.com/AllDotPy/Ryx)<br>
+4. ⭐ Starred [odin-lang/odin-lang.org](https://github.com/odin-lang/odin-lang.org)<br>
+5. ⭐ Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
