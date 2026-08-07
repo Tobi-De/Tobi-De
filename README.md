@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 6th, 2026, 6:25:17 AM
+Last Updated: Friday, August 7th, 2026, 5:36:15 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [L9Lenny/caddy-analyzer](https://github.com/L9Lenny/caddy-analyzer)<br>
-2. ⭐ Starred [bketelsen/bespoke](https://github.com/bketelsen/bespoke)<br>
-3. ⭐ Starred [wsvincent/django-skills](https://github.com/wsvincent/django-skills)<br>
-4. ⭐ Starred [nuxt/hackernews](https://github.com/nuxt/hackernews)<br>
-5. ⭐ Starred [AllDotPy/Ryx](https://github.com/AllDotPy/Ryx)<br>
+1. ⭐ Starred [get-bb/bb](https://github.com/get-bb/bb)<br>
+2. ⭐ Starred [L9Lenny/caddy-analyzer](https://github.com/L9Lenny/caddy-analyzer)<br>
+3. ⭐ Starred [bketelsen/bespoke](https://github.com/bketelsen/bespoke)<br>
+4. ⭐ Starred [wsvincent/django-skills](https://github.com/wsvincent/django-skills)<br>
+5. ⭐ Starred [nuxt/hackernews](https://github.com/nuxt/hackernews)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
