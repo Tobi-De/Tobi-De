@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 8th, 2026, 8:31:21 AM
+Last Updated: Wednesday, September 9th, 2026, 8:33:43 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [viewflow/seedkit](https://github.com/viewflow/seedkit)<br>
-2. ⭐ Starred [General-Legal/legal-templates](https://github.com/General-Legal/legal-templates)<br>
-3. ⭐ Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)<br>
-4. ⭐ Starred [floooh/sokol](https://github.com/floooh/sokol)<br>
-5. ⭐ Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+1. ⭐ Starred [citry-dev/citry](https://github.com/citry-dev/citry)<br>
+2. ⭐ Starred [viewflow/seedkit](https://github.com/viewflow/seedkit)<br>
+3. ⭐ Starred [General-Legal/legal-templates](https://github.com/General-Legal/legal-templates)<br>
+4. ⭐ Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)<br>
+5. ⭐ Starred [floooh/sokol](https://github.com/floooh/sokol)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
