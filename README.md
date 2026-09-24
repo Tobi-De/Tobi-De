@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 23rd, 2026, 9:01:02 AM
+Last Updated: Thursday, September 24th, 2026, 8:57:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)<br>
-2. ⬆️ Pushed undefined commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-3. ⭐ Starred [scale-venture-partners/windbag](https://github.com/scale-venture-partners/windbag)<br>
-4. ⬆️ Pushed undefined commit(s) to [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream)<br>
-5. ⭐ Starred [citry-dev/citry](https://github.com/citry-dev/citry)<br>
+1. ⭐ Starred [RegioHelden/django-scrubber](https://github.com/RegioHelden/django-scrubber)<br>
+2. ⭐ Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)<br>
+3. ⬆️ Pushed undefined commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
+4. ⭐ Starred [scale-venture-partners/windbag](https://github.com/scale-venture-partners/windbag)<br>
+5. ⬆️ Pushed undefined commit(s) to [Tobi-De/django-litestream](https://github.com/Tobi-De/django-litestream)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
