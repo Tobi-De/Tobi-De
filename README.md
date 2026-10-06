@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 5th, 2026, 11:07:16 AM
+Last Updated: Tuesday, October 6th, 2026, 10:58:40 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [frostyard/nsl](https://github.com/frostyard/nsl)<br>
-2. ⭐ Starred [RegioHelden/django-scrubber](https://github.com/RegioHelden/django-scrubber)<br>
-3. ⭐ Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)<br>
-4. ⬆️ Pushed undefined commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
-5. ⭐ Starred [scale-venture-partners/windbag](https://github.com/scale-venture-partners/windbag)<br>
+1. ⭐ Starred [derblub/django-upgrade-report](https://github.com/derblub/django-upgrade-report)<br>
+2. ⭐ Starred [frostyard/nsl](https://github.com/frostyard/nsl)<br>
+3. ⭐ Starred [RegioHelden/django-scrubber](https://github.com/RegioHelden/django-scrubber)<br>
+4. ⭐ Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)<br>
+5. ⬆️ Pushed undefined commit(s) to [Tobi-De/pw](https://github.com/Tobi-De/pw)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
