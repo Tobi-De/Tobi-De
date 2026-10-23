@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 22nd, 2026, 9:06:21 AM
+Last Updated: Friday, October 23rd, 2026, 9:02:08 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)<br>
-2. ⭐ Starred [labbhq/labb](https://github.com/labbhq/labb)<br>
-3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-4. ⭐ Starred [derblub/django-upgrade-report](https://github.com/derblub/django-upgrade-report)<br>
-5. ⭐ Starred [frostyard/nsl](https://github.com/frostyard/nsl)<br>
+1. ❗️ Opened issue [#85](https://github.com/Tobi-De/fujin/issues/85) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+2. ❗️ Opened issue [#84](https://github.com/Tobi-De/fujin/issues/84) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+3. ❗️ Opened issue [#91](https://github.com/Tobi-De/fujin/issues/91) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+4. ❗️ Opened issue [#86](https://github.com/Tobi-De/fujin/issues/86) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+5. ❗️ Opened issue [#83](https://github.com/Tobi-De/fujin/issues/83) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
