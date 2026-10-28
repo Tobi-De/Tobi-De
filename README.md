@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 27th, 2026, 9:32:37 AM
+Last Updated: Wednesday, October 28th, 2026, 10:16:46 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#95](https://github.com/Tobi-De/fujin/issues/95) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-2. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-3. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-4. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-5. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ✔️ Closed issue [#74](https://github.com/Tobi-De/fujin/issues/74) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+2. ✔️ Closed issue [#93](https://github.com/Tobi-De/fujin/issues/93) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+3. ✔️ Closed issue [#92](https://github.com/Tobi-De/fujin/issues/92) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+4. ✔️ Closed issue [#90](https://github.com/Tobi-De/fujin/issues/90) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+5. ✔️ Closed issue [#86](https://github.com/Tobi-De/fujin/issues/86) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
