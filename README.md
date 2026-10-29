@@ -79,15 +79,15 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 28th, 2026, 10:16:46 AM
+Last Updated: Thursday, October 29th, 2026, 10:40:25 AM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#74](https://github.com/Tobi-De/fujin/issues/74) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-2. ✔️ Closed issue [#93](https://github.com/Tobi-De/fujin/issues/93) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-3. ✔️ Closed issue [#92](https://github.com/Tobi-De/fujin/issues/92) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-4. ✔️ Closed issue [#90](https://github.com/Tobi-De/fujin/issues/90) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-5. ✔️ Closed issue [#86](https://github.com/Tobi-De/fujin/issues/86) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+2. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+3. ✌️ Released [v0.28.0-beta.5](https://github.com/Tobi-De/fujin/releases/tag/v0.28.0b5) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+4. ✌️ Released [v0.28.0-beta.4](https://github.com/Tobi-De/fujin/releases/tag/v0.28.0b4) in [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+5. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
