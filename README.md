@@ -79,14 +79,14 @@ My latest publications:
 <br>
 
  <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 20th, 2026, 12:26:39 PM
+Last Updated: Saturday, November 21st, 2026, 12:00:46 PM
  <!--RECENT_ACTIVITY:last_update_end-->
 
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codingjoe/threadmill](https://github.com/codingjoe/threadmill)<br>
-2. ⭐ Starred [jowilf/sqlalchemy-file](https://github.com/jowilf/sqlalchemy-file)<br>
-3. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
-4. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
+1. ⭐ Starred [jakubtomsu/ravn](https://github.com/jakubtomsu/ravn)<br>
+2. ⭐ Starred [mitsuhiko/dungeon-crawler](https://github.com/mitsuhiko/dungeon-crawler)<br>
+3. ⭐ Starred [codingjoe/threadmill](https://github.com/codingjoe/threadmill)<br>
+4. ⭐ Starred [jowilf/sqlalchemy-file](https://github.com/jowilf/sqlalchemy-file)<br>
 5. ⬆️ Pushed undefined commit(s) to [Tobi-De/fujin](https://github.com/Tobi-De/fujin)<br>
  <!--RECENT_ACTIVITY:end-->
 
